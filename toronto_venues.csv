@@ -1,0 +1,686 @@
+,Neighbourhood,Postalcode,Neighbourhood Latitude,Neighbourhood Longitude,Venue,fsq_id,Venue Latitude,Venue Longitude,Venue Category
+0,Lawrence Park,M4N,43.7280205,-79.3887901,Mastermind Toys,4adb6c97f964a5204c2721e3,43.732021,-79.404225,Toy Store
+1,Lawrence Park,M4N,43.7280205,-79.3887901,401 Games,5b76f1f1a2c00b002ca82644,43.719146,-79.401279,Toy Store
+2,Lawrence Park,M4N,43.7280205,-79.3887901,Toys Toys Toys,4b7eddb4f964a520590530e3,43.715945,-79.400487,Toy Store
+3,Lawrence Park,M4N,43.7280205,-79.3887901,Game Trek Inc,4dfd373952b18923030f13ed,43.714587,-79.399848,Toy Store
+5,Lawrence Park,M4N,43.7280205,-79.3887901,Mind Games,565b509a498ebf765261e9fd,43.708643,-79.398946,Toy Store
+6,Lawrence Park,M4N,43.7280205,-79.3887901,Toytown,4bcb583d511f95218c44b1c7,43.729121,-79.418607,Toy Store
+7,Lawrence Park,M4N,43.7280205,-79.3887901,Strategy Games,4ce94fa2f3bda1439928bfe4,43.706434,-79.389139,Toy Store
+8,Lawrence Park,M4N,43.7280205,-79.3887901,Toy town,4c41b5b7e26920a15bd15ee7,43.729114,-79.418699,Toy Store
+9,Lawrence Park,M4N,43.7280205,-79.3887901,Crazy Frog Inc,18ef4e8cca294f0a3a676f02,43.707258,-79.398678,Toy Store
+10,Davisville North,M4P,43.7127511,-79.3901975,Mastermind Toys,4adb6c97f964a5204c2721e3,43.732021,-79.404225,Toy Store
+11,Davisville North,M4P,43.7127511,-79.3901975,Mastermind Toys,4b800918f964a5209a4c30e3,43.704802,-79.388411,Toy Store
+13,Davisville North,M4P,43.7127511,-79.3901975,Strategy Games,4ce94fa2f3bda1439928bfe4,43.706434,-79.389139,Toy Store
+14,Davisville North,M4P,43.7127511,-79.3901975,Game Trek Inc,4dfd373952b18923030f13ed,43.714587,-79.399848,Toy Store
+15,Davisville North,M4P,43.7127511,-79.3901975,Mind Games,565b509a498ebf765261e9fd,43.708643,-79.398946,Toy Store
+16,Davisville North,M4P,43.7127511,-79.3901975,Toys Toys Toys,4b7eddb4f964a520590530e3,43.715945,-79.400487,Toy Store
+17,Davisville North,M4P,43.7127511,-79.3901975,Crazy Frog Inc,18ef4e8cca294f0a3a676f02,43.707258,-79.398678,Toy Store
+18,Davisville North,M4P,43.7127511,-79.3901975,Little Dollhouse Co,4db326514df05e5aaac4c04f,43.703946,-79.388602,Toy Store
+19,Davisville North,M4P,43.7127511,-79.3901975,401 Games,5b76f1f1a2c00b002ca82644,43.719146,-79.401279,Toy Store
+21,North Toronto West,M4R,43.7153834,-79.4056784,Mastermind Toys,4adb6c97f964a5204c2721e3,43.732021,-79.404225,Toy Store
+22,North Toronto West,M4R,43.7153834,-79.4056784,Mastermind Toys,4b800918f964a5209a4c30e3,43.704802,-79.388411,Toy Store
+23,North Toronto West,M4R,43.7153834,-79.4056784,Toys Toys Toys,4b7eddb4f964a520590530e3,43.715945,-79.400487,Toy Store
+24,North Toronto West,M4R,43.7153834,-79.4056784,Game Trek Inc,4dfd373952b18923030f13ed,43.714587,-79.399848,Toy Store
+25,North Toronto West,M4R,43.7153834,-79.4056784,401 Games,5b76f1f1a2c00b002ca82644,43.719146,-79.401279,Toy Store
+26,North Toronto West,M4R,43.7153834,-79.4056784,Mind Games,565b509a498ebf765261e9fd,43.708643,-79.398946,Toy Store
+27,North Toronto West,M4R,43.7153834,-79.4056784,Crazy Frog Inc,18ef4e8cca294f0a3a676f02,43.707258,-79.398678,Toy Store
+30,North Toronto West,M4R,43.7153834,-79.4056784,Strategy Games,4ce94fa2f3bda1439928bfe4,43.706434,-79.389139,Toy Store
+31,North Toronto West,M4R,43.7153834,-79.4056784,Toytown,4bcb583d511f95218c44b1c7,43.729121,-79.418607,Toy Store
+32,North Toronto West,M4R,43.7153834,-79.4056784,Toy town,4c41b5b7e26920a15bd15ee7,43.729114,-79.418699,Toy Store
+33,North Toronto West,M4R,43.7153834,-79.4056784,Little Dollhouse Co,4db326514df05e5aaac4c04f,43.703946,-79.388602,Toy Store
+34,Davisville,M4S,43.7043244,-79.3887901,Mastermind Toys,4b800918f964a5209a4c30e3,43.704802,-79.388411,Toy Store
+35,Davisville,M4S,43.7043244,-79.3887901,Little Dollhouse Co,4db326514df05e5aaac4c04f,43.703946,-79.388602,Toy Store
+36,Davisville,M4S,43.7043244,-79.3887901,Strategy Games,4ce94fa2f3bda1439928bfe4,43.706434,-79.389139,Toy Store
+38,Davisville,M4S,43.7043244,-79.3887901,Crazy Frog Inc,18ef4e8cca294f0a3a676f02,43.707258,-79.398678,Toy Store
+39,Davisville,M4S,43.7043244,-79.3887901,Mind Games,565b509a498ebf765261e9fd,43.708643,-79.398946,Toy Store
+40,Davisville,M4S,43.7043244,-79.3887901,Game Trek Inc,4dfd373952b18923030f13ed,43.714587,-79.399848,Toy Store
+41,Davisville,M4S,43.7043244,-79.3887901,Toys Toys Toys,4b7eddb4f964a520590530e3,43.715945,-79.400487,Toy Store
+43,Davisville,M4S,43.7043244,-79.3887901,401 Games,5b76f1f1a2c00b002ca82644,43.719146,-79.401279,Toy Store
+44,"Moore Park, Summerhill East",M4T,43.6895743,-79.3831599,Mastermind Toys,4b800918f964a5209a4c30e3,43.704802,-79.388411,Toy Store
+45,"Moore Park, Summerhill East",M4T,43.6895743,-79.3831599,Mastermind Toys,5a1719ebe679bc37732e4cca,43.681872,-79.390979,Toy Store
+46,"Moore Park, Summerhill East",M4T,43.6895743,-79.3831599,Little Dollhouse Co,4db326514df05e5aaac4c04f,43.703946,-79.388602,Toy Store
+47,"Moore Park, Summerhill East",M4T,43.6895743,-79.3831599,Inquisitivekid,4bf81a3c5ec320a1241e88d3,43.67479,-79.394949,Toy Store
+48,"Moore Park, Summerhill East",M4T,43.6895743,-79.3831599,Strategy Games,4ce94fa2f3bda1439928bfe4,43.706434,-79.389139,Toy Store
+49,"Moore Park, Summerhill East",M4T,43.6895743,-79.3831599,Game and Hobby Zone,4c013560de3376b07b6ef9a4,43.670468,-79.387197,Toy Store
+51,"Moore Park, Summerhill East",M4T,43.6895743,-79.3831599,Mind Games Atrium on Bay,541463ca498e6856c61d0def,43.66978,-79.388164,Toy Store
+52,"Moore Park, Summerhill East",M4T,43.6895743,-79.3831599,Crazy Frog Inc,18ef4e8cca294f0a3a676f02,43.707258,-79.398678,Toy Store
+53,"Moore Park, Summerhill East",M4T,43.6895743,-79.3831599,Mind Games,565b509a498ebf765261e9fd,43.708643,-79.398946,Toy Store
+54,"Moore Park, Summerhill East",M4T,43.6895743,-79.3831599,Games Night,4b567fddf964a5200c1328e3,43.667397,-79.380769,Toy Store
+55,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",M4V,43.6864123,-79.4000493,Mastermind Toys,4b800918f964a5209a4c30e3,43.704802,-79.388411,Toy Store
+56,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",M4V,43.6864123,-79.4000493,Mastermind Toys,5a1719ebe679bc37732e4cca,43.681872,-79.390979,Toy Store
+57,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",M4V,43.6864123,-79.4000493,Inquisitivekid,4bf81a3c5ec320a1241e88d3,43.67479,-79.394949,Toy Store
+58,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",M4V,43.6864123,-79.4000493,Playful Minds,4b0ed055f964a520705b23e3,43.68173,-79.424592,Toy Store
+59,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",M4V,43.6864123,-79.4000493,Game and Hobby Zone,4c013560de3376b07b6ef9a4,43.670468,-79.387197,Toy Store
+60,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",M4V,43.6864123,-79.4000493,Mind Games Atrium on Bay,541463ca498e6856c61d0def,43.66978,-79.388164,Toy Store
+62,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",M4V,43.6864123,-79.4000493,Little Dollhouse Co,4db326514df05e5aaac4c04f,43.703946,-79.388602,Toy Store
+63,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",M4V,43.6864123,-79.4000493,Crazy Frog Inc,18ef4e8cca294f0a3a676f02,43.707258,-79.398678,Toy Store
+64,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",M4V,43.6864123,-79.4000493,Strategy Games,4ce94fa2f3bda1439928bfe4,43.706434,-79.389139,Toy Store
+66,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",M4V,43.6864123,-79.4000493,Mind Games,565b509a498ebf765261e9fd,43.708643,-79.398946,Toy Store
+67,Roselawn,M5N,43.7116948,-79.4169356,Mastermind Toys,4adb6c97f964a5204c2721e3,43.732021,-79.404225,Toy Store
+68,Roselawn,M5N,43.7116948,-79.4169356,Mastermind Toys,4b800918f964a5209a4c30e3,43.704802,-79.388411,Toy Store
+70,Roselawn,M5N,43.7116948,-79.4169356,Toys Toys Toys,4b7eddb4f964a520590530e3,43.715945,-79.400487,Toy Store
+71,Roselawn,M5N,43.7116948,-79.4169356,Game Trek Inc,4dfd373952b18923030f13ed,43.714587,-79.399848,Toy Store
+72,Roselawn,M5N,43.7116948,-79.4169356,Mind Games,565b509a498ebf765261e9fd,43.708643,-79.398946,Toy Store
+73,Roselawn,M5N,43.7116948,-79.4169356,401 Games,5b76f1f1a2c00b002ca82644,43.719146,-79.401279,Toy Store
+74,Roselawn,M5N,43.7116948,-79.4169356,Crazy Frog Inc,18ef4e8cca294f0a3a676f02,43.707258,-79.398678,Toy Store
+75,Roselawn,M5N,43.7116948,-79.4169356,Toy town,4c41b5b7e26920a15bd15ee7,43.729114,-79.418699,Toy Store
+76,Roselawn,M5N,43.7116948,-79.4169356,Toytown,4bcb583d511f95218c44b1c7,43.729121,-79.418607,Toy Store
+78,Roselawn,M5N,43.7116948,-79.4169356,Strategy Games,4ce94fa2f3bda1439928bfe4,43.706434,-79.389139,Toy Store
+79,Roselawn,M5N,43.7116948,-79.4169356,Little Dollhouse Co,4db326514df05e5aaac4c04f,43.703946,-79.388602,Toy Store
+80,Forest Hill North & West,M5P,43.6969476,-79.4113072,Mastermind Toys,4b800918f964a5209a4c30e3,43.704802,-79.388411,Toy Store
+82,Forest Hill North & West,M5P,43.6969476,-79.4113072,Crazy Frog Inc,18ef4e8cca294f0a3a676f02,43.707258,-79.398678,Toy Store
+83,Forest Hill North & West,M5P,43.6969476,-79.4113072,Mind Games,565b509a498ebf765261e9fd,43.708643,-79.398946,Toy Store
+85,Forest Hill North & West,M5P,43.6969476,-79.4113072,Little Dollhouse Co,4db326514df05e5aaac4c04f,43.703946,-79.388602,Toy Store
+86,Forest Hill North & West,M5P,43.6969476,-79.4113072,Playful Minds,4b0ed055f964a520705b23e3,43.68173,-79.424592,Toy Store
+87,Forest Hill North & West,M5P,43.6969476,-79.4113072,Strategy Games,4ce94fa2f3bda1439928bfe4,43.706434,-79.389139,Toy Store
+88,Forest Hill North & West,M5P,43.6969476,-79.4113072,Game Trek Inc,4dfd373952b18923030f13ed,43.714587,-79.399848,Toy Store
+89,Forest Hill North & West,M5P,43.6969476,-79.4113072,Toys Toys Toys,4b7eddb4f964a520590530e3,43.715945,-79.400487,Toy Store
+90,Forest Hill North & West,M5P,43.6969476,-79.4113072,Mastermind Toys,5a1719ebe679bc37732e4cca,43.681872,-79.390979,Toy Store
+91,Forest Hill North & West,M5P,43.6969476,-79.4113072,R and C Spinners and Gadgets,1162944783a24e5e37e6ecb8,43.683509,-79.434842,Toy Store
+92,"The Annex, North Midtown, Yorkville",M5R,43.6727097,-79.4056784,AnimeXtreme,4ad8bb1ff964a520201421e3,43.654118,-79.398199,Toy Store
+93,"The Annex, North Midtown, Yorkville",M5R,43.6727097,-79.4056784,Inquisitivekid,4bf81a3c5ec320a1241e88d3,43.67479,-79.394949,Toy Store
+94,"The Annex, North Midtown, Yorkville",M5R,43.6727097,-79.4056784,Mind Games Atrium on Bay,541463ca498e6856c61d0def,43.66978,-79.388164,Toy Store
+95,"The Annex, North Midtown, Yorkville",M5R,43.6727097,-79.4056784,Game and Hobby Zone,4c013560de3376b07b6ef9a4,43.670468,-79.387197,Toy Store
+96,"The Annex, North Midtown, Yorkville",M5R,43.6727097,-79.4056784,Mastermind Toys,5a1719ebe679bc37732e4cca,43.681872,-79.390979,Toy Store
+97,"The Annex, North Midtown, Yorkville",M5R,43.6727097,-79.4056784,Playful Minds,4b0ed055f964a520705b23e3,43.68173,-79.424592,Toy Store
+98,"The Annex, North Midtown, Yorkville",M5R,43.6727097,-79.4056784,Kingsway Inc,25a663b69edc4f9345672528,43.656357,-79.39907,Toy Store
+99,"The Annex, North Midtown, Yorkville",M5R,43.6727097,-79.4056784,Golden Shine Trading,508ad60fe4b07e54b2b12404,43.655319,-79.398671,Toy Store
+100,"The Annex, North Midtown, Yorkville",M5R,43.6727097,-79.4056784,Games Night,4b567fddf964a5200c1328e3,43.667397,-79.380769,Toy Store
+101,"The Annex, North Midtown, Yorkville",M5R,43.6727097,-79.4056784,The Toy Space,4cd58f43dfb4a1cdf6e3595c,43.656818,-79.3904,Toy Store
+102,"The Annex, North Midtown, Yorkville",M5R,43.6727097,-79.4056784,Navito World,51b608c3498ed1f8f39272dc,43.654224,-79.397514,Toy Store
+103,"The Annex, North Midtown, Yorkville",M5R,43.6727097,-79.4056784,Tai Tai Trading,539dc1dd498ef219414a0544,43.653318,-79.396856,Toy Store
+104,"The Annex, North Midtown, Yorkville",M5R,43.6727097,-79.4056784,Nancy's,16f77a3e9e0a40322dee6b0f,43.664025,-79.410956,Toy Store
+106,"The Annex, North Midtown, Yorkville",M5R,43.6727097,-79.4056784,401 Games Toys Sportscards,4aae6843fb984a81c8c1b4af,43.663557,-79.384179,Toy Store
+108,Rosedale,M4W,43.6795626,-79.3775294,Treasure Island Toys Ltd,4bb74c12941ad13a687620e3,43.678455,-79.346652,Toy Store
+109,Rosedale,M4W,43.6795626,-79.3775294,Mastermind Toys,5a1719ebe679bc37732e4cca,43.681872,-79.390979,Toy Store
+110,Rosedale,M4W,43.6795626,-79.3775294,Game and Hobby Zone,4c013560de3376b07b6ef9a4,43.670468,-79.387197,Toy Store
+111,Rosedale,M4W,43.6795626,-79.3775294,Games Night,4b567fddf964a5200c1328e3,43.667397,-79.380769,Toy Store
+112,Rosedale,M4W,43.6795626,-79.3775294,Mind Games Atrium on Bay,541463ca498e6856c61d0def,43.66978,-79.388164,Toy Store
+113,Rosedale,M4W,43.6795626,-79.3775294,Inquisitivekid,4bf81a3c5ec320a1241e88d3,43.67479,-79.394949,Toy Store
+114,Rosedale,M4W,43.6795626,-79.3775294,The 100-Mile Child,4dd95075fa76ad96d1529b1b,43.677498,-79.352909,Toy Store
+115,Rosedale,M4W,43.6795626,-79.3775294,Dragon Hobby,4f79f0cbe4b05bfd5992d598,43.666611,-79.355953,Toy Store
+116,Rosedale,M4W,43.6795626,-79.3775294,401 Games Toys Sportscards,4aae6843fb984a81c8c1b4af,43.663557,-79.384179,Toy Store
+117,"St. James Town, Cabbagetown",M4X,43.667967,-79.3676753,Disney,522a616311d2b982aa3b8111,43.653755,-79.380001,Toy Store
+118,"St. James Town, Cabbagetown",M4X,43.667967,-79.3676753,Treasure Island Toys Ltd,4bb74c12941ad13a687620e3,43.678455,-79.346652,Toy Store
+119,"St. James Town, Cabbagetown",M4X,43.667967,-79.3676753,Dragon Hobby,4f79f0cbe4b05bfd5992d598,43.666611,-79.355953,Toy Store
+120,"St. James Town, Cabbagetown",M4X,43.667967,-79.3676753,Games Night,4b567fddf964a5200c1328e3,43.667397,-79.380769,Toy Store
+121,"St. James Town, Cabbagetown",M4X,43.667967,-79.3676753,Toys Toys Toys,4b197960f964a520fedd23e3,43.653062,-79.380265,Toy Store
+122,"St. James Town, Cabbagetown",M4X,43.667967,-79.3676753,Swappz,5159fefae4b02c83faf81e2e,43.656653,-79.358581,Toy Store
+123,"St. James Town, Cabbagetown",M4X,43.667967,-79.3676753,The 100-Mile Child,4dd95075fa76ad96d1529b1b,43.677498,-79.352909,Toy Store
+124,"St. James Town, Cabbagetown",M4X,43.667967,-79.3676753,Game and Hobby Zone,4c013560de3376b07b6ef9a4,43.670468,-79.387197,Toy Store
+125,"St. James Town, Cabbagetown",M4X,43.667967,-79.3676753,Mind Games Atrium on Bay,541463ca498e6856c61d0def,43.66978,-79.388164,Toy Store
+126,"St. James Town, Cabbagetown",M4X,43.667967,-79.3676753,American Girl,567ed84f498e931068179a8a,43.654145,-79.380811,Toy Store
+128,"St. James Town, Cabbagetown",M4X,43.667967,-79.3676753,Cheap Fifa 15 Coins Shop - Vipfifa15c,55461345498e0032a3820089,43.649778,-79.361277,Toy Store
+130,"St. James Town, Cabbagetown",M4X,43.667967,-79.3676753,The Toy Space,4cd58f43dfb4a1cdf6e3595c,43.656818,-79.3904,Toy Store
+131,"St. James Town, Cabbagetown",M4X,43.667967,-79.3676753,Inquisitivekid,4bf81a3c5ec320a1241e88d3,43.67479,-79.394949,Toy Store
+132,"St. James Town, Cabbagetown",M4X,43.667967,-79.3676753,Mastermind Toys,5a1719ebe679bc37732e4cca,43.681872,-79.390979,Toy Store
+133,"St. James Town, Cabbagetown",M4X,43.667967,-79.3676753,DinoDirect,4eb973676d86ba38ae4ab6a5,43.650562,-79.386879,Toy Store
+134,"St. James Town, Cabbagetown",M4X,43.667967,-79.3676753,Northmen Collectibles,3d2ee0c419214c629a784666,43.656426,-79.361725,Toy Store
+135,"St. James Town, Cabbagetown",M4X,43.667967,-79.3676753,401 Games Toys Sportscards,4aae6843fb984a81c8c1b4af,43.663557,-79.384179,Toy Store
+136,"St. James Town, Cabbagetown",M4X,43.667967,-79.3676753,GameStop,8c172c3a76273b962a1daab2,43.65525,-79.380286,Toy Store
+137,Church and Wellesley,M4Y,43.6658599,-79.3831599,AnimeXtreme,4ad8bb1ff964a520201421e3,43.654118,-79.398199,Toy Store
+138,Church and Wellesley,M4Y,43.6658599,-79.3831599,Disney,522a616311d2b982aa3b8111,43.653755,-79.380001,Toy Store
+139,Church and Wellesley,M4Y,43.6658599,-79.3831599,Games Night,4b567fddf964a5200c1328e3,43.667397,-79.380769,Toy Store
+140,Church and Wellesley,M4Y,43.6658599,-79.3831599,Mind Games Atrium on Bay,541463ca498e6856c61d0def,43.66978,-79.388164,Toy Store
+141,Church and Wellesley,M4Y,43.6658599,-79.3831599,Game and Hobby Zone,4c013560de3376b07b6ef9a4,43.670468,-79.387197,Toy Store
+142,Church and Wellesley,M4Y,43.6658599,-79.3831599,Toys Toys Toys,4b197960f964a520fedd23e3,43.653062,-79.380265,Toy Store
+143,Church and Wellesley,M4Y,43.6658599,-79.3831599,The Toy Space,4cd58f43dfb4a1cdf6e3595c,43.656818,-79.3904,Toy Store
+144,Church and Wellesley,M4Y,43.6658599,-79.3831599,American Girl,567ed84f498e931068179a8a,43.654145,-79.380811,Toy Store
+145,Church and Wellesley,M4Y,43.6658599,-79.3831599,Inquisitivekid,4bf81a3c5ec320a1241e88d3,43.67479,-79.394949,Toy Store
+146,Church and Wellesley,M4Y,43.6658599,-79.3831599,Kingsway Inc,25a663b69edc4f9345672528,43.656357,-79.39907,Toy Store
+147,Church and Wellesley,M4Y,43.6658599,-79.3831599,Golden Shine Trading,508ad60fe4b07e54b2b12404,43.655319,-79.398671,Toy Store
+148,Church and Wellesley,M4Y,43.6658599,-79.3831599,DinoDirect,4eb973676d86ba38ae4ab6a5,43.650562,-79.386879,Toy Store
+149,Church and Wellesley,M4Y,43.6658599,-79.3831599,Navito World,51b608c3498ed1f8f39272dc,43.654224,-79.397514,Toy Store
+151,Church and Wellesley,M4Y,43.6658599,-79.3831599,Tai Tai Trading,539dc1dd498ef219414a0544,43.653318,-79.396856,Toy Store
+152,Church and Wellesley,M4Y,43.6658599,-79.3831599,Mastermind Toys,5a1719ebe679bc37732e4cca,43.681872,-79.390979,Toy Store
+153,Church and Wellesley,M4Y,43.6658599,-79.3831599,Toys Toys Toys,4de51feac65b7a3e215a1ce5,43.647327,-79.381176,Toy Store
+154,Church and Wellesley,M4Y,43.6658599,-79.3831599,Gametrek,4d5eed555c39b1f77f83f149,43.646211,-79.384177,Toy Store
+155,Church and Wellesley,M4Y,43.6658599,-79.3831599,Dragon Hobby,4f79f0cbe4b05bfd5992d598,43.666611,-79.355953,Toy Store
+156,Church and Wellesley,M4Y,43.6658599,-79.3831599,Little Monkeys Treehouse,59ce92a12105c3413d8004fd,43.645883,-79.38174,Toy Store
+157,"Regent Park, Harbourfront",M5A,43.6542599,-79.3606359,Disney,522a616311d2b982aa3b8111,43.653755,-79.380001,Toy Store
+158,"Regent Park, Harbourfront",M5A,43.6542599,-79.3606359,Swappz,5159fefae4b02c83faf81e2e,43.656653,-79.358581,Toy Store
+159,"Regent Park, Harbourfront",M5A,43.6542599,-79.3606359,Cheap Fifa 15 Coins Shop - Vipfifa15c,55461345498e0032a3820089,43.649778,-79.361277,Toy Store
+160,"Regent Park, Harbourfront",M5A,43.6542599,-79.3606359,Toys Toys Toys,4b197960f964a520fedd23e3,43.653062,-79.380265,Toy Store
+162,"Regent Park, Harbourfront",M5A,43.6542599,-79.3606359,Dragon Hobby,4f79f0cbe4b05bfd5992d598,43.666611,-79.355953,Toy Store
+163,"Regent Park, Harbourfront",M5A,43.6542599,-79.3606359,American Girl,567ed84f498e931068179a8a,43.654145,-79.380811,Toy Store
+164,"Regent Park, Harbourfront",M5A,43.6542599,-79.3606359,Toys Toys Toys,4de51feac65b7a3e215a1ce5,43.647327,-79.381176,Toy Store
+166,"Regent Park, Harbourfront",M5A,43.6542599,-79.3606359,Little Monkeys Treehouse,59ce92a12105c3413d8004fd,43.645883,-79.38174,Toy Store
+167,"Regent Park, Harbourfront",M5A,43.6542599,-79.3606359,Game Trek,4ad4c063f964a52039f820e3,43.645609,-79.38165,Toy Store
+168,"Regent Park, Harbourfront",M5A,43.6542599,-79.3606359,Gametrek,4d5eed555c39b1f77f83f149,43.646211,-79.384177,Toy Store
+169,"Regent Park, Harbourfront",M5A,43.6542599,-79.3606359,DinoDirect,4eb973676d86ba38ae4ab6a5,43.650562,-79.386879,Toy Store
+170,"Regent Park, Harbourfront",M5A,43.6542599,-79.3606359,Games Night,4b567fddf964a5200c1328e3,43.667397,-79.380769,Toy Store
+171,"Regent Park, Harbourfront",M5A,43.6542599,-79.3606359,Toy Terminal,4bcb4bb0511f95214725b1c7,43.639446,-79.380716,Toy Store
+172,"Regent Park, Harbourfront",M5A,43.6542599,-79.3606359,The Toy Space,4cd58f43dfb4a1cdf6e3595c,43.656818,-79.3904,Toy Store
+173,"Regent Park, Harbourfront",M5A,43.6542599,-79.3606359,Northmen Collectibles,3d2ee0c419214c629a784666,43.656426,-79.361725,Toy Store
+174,"Regent Park, Harbourfront",M5A,43.6542599,-79.3606359,GameStop,8c172c3a76273b962a1daab2,43.65525,-79.380286,Toy Store
+175,"Regent Park, Harbourfront",M5A,43.6542599,-79.3606359,Card Union,71eb4f8fe2554c4db487904c,43.65002,-79.379641,Toy Store
+176,"Regent Park, Harbourfront",M5A,43.6542599,-79.3606359,Cool Fidget Spinners,8f4cdc92de994ae25382e661,43.65002,-79.379641,Toy Store
+177,"Garden District, Ryerson",M5B,43.6571618,-79.3789371,Disney,522a616311d2b982aa3b8111,43.653755,-79.380001,Toy Store
+178,"Garden District, Ryerson",M5B,43.6571618,-79.3789371,AnimeXtreme,4ad8bb1ff964a520201421e3,43.654118,-79.398199,Toy Store
+179,"Garden District, Ryerson",M5B,43.6571618,-79.3789371,Toy Terminal,50c37adbe4b0572e56f405be,43.646709,-79.403608,Toy Store
+180,"Garden District, Ryerson",M5B,43.6571618,-79.3789371,Toys Toys Toys,4b197960f964a520fedd23e3,43.653062,-79.380265,Toy Store
+181,"Garden District, Ryerson",M5B,43.6571618,-79.3789371,American Girl,567ed84f498e931068179a8a,43.654145,-79.380811,Toy Store
+183,"Garden District, Ryerson",M5B,43.6571618,-79.3789371,The Toy Space,4cd58f43dfb4a1cdf6e3595c,43.656818,-79.3904,Toy Store
+184,"Garden District, Ryerson",M5B,43.6571618,-79.3789371,DinoDirect,4eb973676d86ba38ae4ab6a5,43.650562,-79.386879,Toy Store
+185,"Garden District, Ryerson",M5B,43.6571618,-79.3789371,Toys Toys Toys,4de51feac65b7a3e215a1ce5,43.647327,-79.381176,Toy Store
+186,"Garden District, Ryerson",M5B,43.6571618,-79.3789371,Games Night,4b567fddf964a5200c1328e3,43.667397,-79.380769,Toy Store
+187,"Garden District, Ryerson",M5B,43.6571618,-79.3789371,Little Monkeys Treehouse,59ce92a12105c3413d8004fd,43.645883,-79.38174,Toy Store
+188,"Garden District, Ryerson",M5B,43.6571618,-79.3789371,Gametrek,4d5eed555c39b1f77f83f149,43.646211,-79.384177,Toy Store
+189,"Garden District, Ryerson",M5B,43.6571618,-79.3789371,Game Trek,4ad4c063f964a52039f820e3,43.645609,-79.38165,Toy Store
+190,"Garden District, Ryerson",M5B,43.6571618,-79.3789371,Tai Tai Trading,539dc1dd498ef219414a0544,43.653318,-79.396856,Toy Store
+191,"Garden District, Ryerson",M5B,43.6571618,-79.3789371,Navito World,51b608c3498ed1f8f39272dc,43.654224,-79.397514,Toy Store
+192,"Garden District, Ryerson",M5B,43.6571618,-79.3789371,Mind Games Atrium on Bay,541463ca498e6856c61d0def,43.66978,-79.388164,Toy Store
+193,"Garden District, Ryerson",M5B,43.6571618,-79.3789371,Golden Shine Trading,508ad60fe4b07e54b2b12404,43.655319,-79.398671,Toy Store
+194,"Garden District, Ryerson",M5B,43.6571618,-79.3789371,Game and Hobby Zone,4c013560de3376b07b6ef9a4,43.670468,-79.387197,Toy Store
+195,"Garden District, Ryerson",M5B,43.6571618,-79.3789371,Kingsway Inc,25a663b69edc4f9345672528,43.656357,-79.39907,Toy Store
+196,"Garden District, Ryerson",M5B,43.6571618,-79.3789371,Swappz,5159fefae4b02c83faf81e2e,43.656653,-79.358581,Toy Store
+197,St. James Town,M5C,43.6514939,-79.3754179,Disney,522a616311d2b982aa3b8111,43.653755,-79.380001,Toy Store
+198,St. James Town,M5C,43.6514939,-79.3754179,AnimeXtreme,4ad8bb1ff964a520201421e3,43.654118,-79.398199,Toy Store
+199,St. James Town,M5C,43.6514939,-79.3754179,Toy Terminal,50c37adbe4b0572e56f405be,43.646709,-79.403608,Toy Store
+200,St. James Town,M5C,43.6514939,-79.3754179,Toys Toys Toys,4b197960f964a520fedd23e3,43.653062,-79.380265,Toy Store
+202,St. James Town,M5C,43.6514939,-79.3754179,American Girl,567ed84f498e931068179a8a,43.654145,-79.380811,Toy Store
+203,St. James Town,M5C,43.6514939,-79.3754179,Toys Toys Toys,4de51feac65b7a3e215a1ce5,43.647327,-79.381176,Toy Store
+204,St. James Town,M5C,43.6514939,-79.3754179,Little Monkeys Treehouse,59ce92a12105c3413d8004fd,43.645883,-79.38174,Toy Store
+205,St. James Town,M5C,43.6514939,-79.3754179,Game Trek,4ad4c063f964a52039f820e3,43.645609,-79.38165,Toy Store
+206,St. James Town,M5C,43.6514939,-79.3754179,Gametrek,4d5eed555c39b1f77f83f149,43.646211,-79.384177,Toy Store
+207,St. James Town,M5C,43.6514939,-79.3754179,DinoDirect,4eb973676d86ba38ae4ab6a5,43.650562,-79.386879,Toy Store
+208,St. James Town,M5C,43.6514939,-79.3754179,Cheap Fifa 15 Coins Shop - Vipfifa15c,55461345498e0032a3820089,43.649778,-79.361277,Toy Store
+209,St. James Town,M5C,43.6514939,-79.3754179,The Toy Space,4cd58f43dfb4a1cdf6e3595c,43.656818,-79.3904,Toy Store
+210,St. James Town,M5C,43.6514939,-79.3754179,Toy Terminal,4bcb4bb0511f95214725b1c7,43.639446,-79.380716,Toy Store
+211,St. James Town,M5C,43.6514939,-79.3754179,Swappz,5159fefae4b02c83faf81e2e,43.656653,-79.358581,Toy Store
+212,St. James Town,M5C,43.6514939,-79.3754179,Toys Toys Toys,4b33a155f964a520be1b25e3,43.644759,-79.392593,Toy Store
+213,St. James Town,M5C,43.6514939,-79.3754179,Hestia International Inc,a5294142f21d4964645c78aa,43.647697,-79.396193,Toy Store
+214,St. James Town,M5C,43.6514939,-79.3754179,Tai Tai Trading,539dc1dd498ef219414a0544,43.653318,-79.396856,Toy Store
+215,St. James Town,M5C,43.6514939,-79.3754179,Mindzai,51b5f9a2454a4042828fbcbf,43.647115,-79.396474,Toy Store
+216,St. James Town,M5C,43.6514939,-79.3754179,Navito World,51b608c3498ed1f8f39272dc,43.654224,-79.397514,Toy Store
+217,Berczy Park,M5E,43.6447708,-79.3733064,Disney,522a616311d2b982aa3b8111,43.653755,-79.380001,Toy Store
+218,Berczy Park,M5E,43.6447708,-79.3733064,AnimeXtreme,4ad8bb1ff964a520201421e3,43.654118,-79.398199,Toy Store
+219,Berczy Park,M5E,43.6447708,-79.3733064,Toy Terminal,50c37adbe4b0572e56f405be,43.646709,-79.403608,Toy Store
+220,Berczy Park,M5E,43.6447708,-79.3733064,Toys Toys Toys,4b197960f964a520fedd23e3,43.653062,-79.380265,Toy Store
+221,Berczy Park,M5E,43.6447708,-79.3733064,Game Trek,4ad4c063f964a52039f820e3,43.645609,-79.38165,Toy Store
+222,Berczy Park,M5E,43.6447708,-79.3733064,Little Monkeys Treehouse,59ce92a12105c3413d8004fd,43.645883,-79.38174,Toy Store
+223,Berczy Park,M5E,43.6447708,-79.3733064,Toys Toys Toys,4de51feac65b7a3e215a1ce5,43.647327,-79.381176,Toy Store
+225,Berczy Park,M5E,43.6447708,-79.3733064,Toy Terminal,4bcb4bb0511f95214725b1c7,43.639446,-79.380716,Toy Store
+226,Berczy Park,M5E,43.6447708,-79.3733064,Gametrek,4d5eed555c39b1f77f83f149,43.646211,-79.384177,Toy Store
+227,Berczy Park,M5E,43.6447708,-79.3733064,Cheap Fifa 15 Coins Shop - Vipfifa15c,55461345498e0032a3820089,43.649778,-79.361277,Toy Store
+228,Berczy Park,M5E,43.6447708,-79.3733064,American Girl,567ed84f498e931068179a8a,43.654145,-79.380811,Toy Store
+229,Berczy Park,M5E,43.6447708,-79.3733064,DinoDirect,4eb973676d86ba38ae4ab6a5,43.650562,-79.386879,Toy Store
+230,Berczy Park,M5E,43.6447708,-79.3733064,Toys Toys Toys,4b33a155f964a520be1b25e3,43.644759,-79.392593,Toy Store
+231,Berczy Park,M5E,43.6447708,-79.3733064,Swappz,5159fefae4b02c83faf81e2e,43.656653,-79.358581,Toy Store
+233,Berczy Park,M5E,43.6447708,-79.3733064,Hestia International Inc,a5294142f21d4964645c78aa,43.647697,-79.396193,Toy Store
+234,Berczy Park,M5E,43.6447708,-79.3733064,Mindzai,51b5f9a2454a4042828fbcbf,43.647115,-79.396474,Toy Store
+235,Berczy Park,M5E,43.6447708,-79.3733064,Spinmaster,4b5dab03f964a520ef6529e3,43.642165,-79.39662,Toy Store
+236,Berczy Park,M5E,43.6447708,-79.3733064,The Toy Space,4cd58f43dfb4a1cdf6e3595c,43.656818,-79.3904,Toy Store
+237,Central Bay Street,M5G,43.6579524,-79.3873826,AnimeXtreme,4ad8bb1ff964a520201421e3,43.654118,-79.398199,Toy Store
+238,Central Bay Street,M5G,43.6579524,-79.3873826,Disney,522a616311d2b982aa3b8111,43.653755,-79.380001,Toy Store
+239,Central Bay Street,M5G,43.6579524,-79.3873826,Toy Terminal,50c37adbe4b0572e56f405be,43.646709,-79.403608,Toy Store
+240,Central Bay Street,M5G,43.6579524,-79.3873826,The Toy Space,4cd58f43dfb4a1cdf6e3595c,43.656818,-79.3904,Toy Store
+241,Central Bay Street,M5G,43.6579524,-79.3873826,Toys Toys Toys,4b197960f964a520fedd23e3,43.653062,-79.380265,Toy Store
+242,Central Bay Street,M5G,43.6579524,-79.3873826,American Girl,567ed84f498e931068179a8a,43.654145,-79.380811,Toy Store
+243,Central Bay Street,M5G,43.6579524,-79.3873826,DinoDirect,4eb973676d86ba38ae4ab6a5,43.650562,-79.386879,Toy Store
+244,Central Bay Street,M5G,43.6579524,-79.3873826,Navito World,51b608c3498ed1f8f39272dc,43.654224,-79.397514,Toy Store
+245,Central Bay Street,M5G,43.6579524,-79.3873826,Tai Tai Trading,539dc1dd498ef219414a0544,43.653318,-79.396856,Toy Store
+246,Central Bay Street,M5G,43.6579524,-79.3873826,Golden Shine Trading,508ad60fe4b07e54b2b12404,43.655319,-79.398671,Toy Store
+247,Central Bay Street,M5G,43.6579524,-79.3873826,Kingsway Inc,25a663b69edc4f9345672528,43.656357,-79.39907,Toy Store
+248,Central Bay Street,M5G,43.6579524,-79.3873826,Games Night,4b567fddf964a5200c1328e3,43.667397,-79.380769,Toy Store
+250,Central Bay Street,M5G,43.6579524,-79.3873826,Toys Toys Toys,4de51feac65b7a3e215a1ce5,43.647327,-79.381176,Toy Store
+251,Central Bay Street,M5G,43.6579524,-79.3873826,Mind Games Atrium on Bay,541463ca498e6856c61d0def,43.66978,-79.388164,Toy Store
+252,Central Bay Street,M5G,43.6579524,-79.3873826,Gametrek,4d5eed555c39b1f77f83f149,43.646211,-79.384177,Toy Store
+253,Central Bay Street,M5G,43.6579524,-79.3873826,Hestia International Inc,a5294142f21d4964645c78aa,43.647697,-79.396193,Toy Store
+254,Central Bay Street,M5G,43.6579524,-79.3873826,Game and Hobby Zone,4c013560de3376b07b6ef9a4,43.670468,-79.387197,Toy Store
+255,Central Bay Street,M5G,43.6579524,-79.3873826,Mindzai,51b5f9a2454a4042828fbcbf,43.647115,-79.396474,Toy Store
+256,Central Bay Street,M5G,43.6579524,-79.3873826,Little Monkeys Treehouse,59ce92a12105c3413d8004fd,43.645883,-79.38174,Toy Store
+257,"Richmond, Adelaide, King",M5H,43.6505712,-79.3845675,Disney,522a616311d2b982aa3b8111,43.653755,-79.380001,Toy Store
+258,"Richmond, Adelaide, King",M5H,43.6505712,-79.3845675,AnimeXtreme,4ad8bb1ff964a520201421e3,43.654118,-79.398199,Toy Store
+259,"Richmond, Adelaide, King",M5H,43.6505712,-79.3845675,Toy Terminal,50c37adbe4b0572e56f405be,43.646709,-79.403608,Toy Store
+260,"Richmond, Adelaide, King",M5H,43.6505712,-79.3845675,Toys Toys Toys,4b197960f964a520fedd23e3,43.653062,-79.380265,Toy Store
+261,"Richmond, Adelaide, King",M5H,43.6505712,-79.3845675,DinoDirect,4eb973676d86ba38ae4ab6a5,43.650562,-79.386879,Toy Store
+262,"Richmond, Adelaide, King",M5H,43.6505712,-79.3845675,Toys Toys Toys,4de51feac65b7a3e215a1ce5,43.647327,-79.381176,Toy Store
+263,"Richmond, Adelaide, King",M5H,43.6505712,-79.3845675,Gametrek,4d5eed555c39b1f77f83f149,43.646211,-79.384177,Toy Store
+264,"Richmond, Adelaide, King",M5H,43.6505712,-79.3845675,American Girl,567ed84f498e931068179a8a,43.654145,-79.380811,Toy Store
+265,"Richmond, Adelaide, King",M5H,43.6505712,-79.3845675,Little Monkeys Treehouse,59ce92a12105c3413d8004fd,43.645883,-79.38174,Toy Store
+266,"Richmond, Adelaide, King",M5H,43.6505712,-79.3845675,Game Trek,4ad4c063f964a52039f820e3,43.645609,-79.38165,Toy Store
+268,"Richmond, Adelaide, King",M5H,43.6505712,-79.3845675,The Toy Space,4cd58f43dfb4a1cdf6e3595c,43.656818,-79.3904,Toy Store
+269,"Richmond, Adelaide, King",M5H,43.6505712,-79.3845675,Toys Toys Toys,4b33a155f964a520be1b25e3,43.644759,-79.392593,Toy Store
+270,"Richmond, Adelaide, King",M5H,43.6505712,-79.3845675,Hestia International Inc,a5294142f21d4964645c78aa,43.647697,-79.396193,Toy Store
+271,"Richmond, Adelaide, King",M5H,43.6505712,-79.3845675,Mindzai,51b5f9a2454a4042828fbcbf,43.647115,-79.396474,Toy Store
+272,"Richmond, Adelaide, King",M5H,43.6505712,-79.3845675,Tai Tai Trading,539dc1dd498ef219414a0544,43.653318,-79.396856,Toy Store
+274,"Richmond, Adelaide, King",M5H,43.6505712,-79.3845675,Navito World,51b608c3498ed1f8f39272dc,43.654224,-79.397514,Toy Store
+275,"Richmond, Adelaide, King",M5H,43.6505712,-79.3845675,Golden Shine Trading,508ad60fe4b07e54b2b12404,43.655319,-79.398671,Toy Store
+276,"Richmond, Adelaide, King",M5H,43.6505712,-79.3845675,Toy Terminal,4bcb4bb0511f95214725b1c7,43.639446,-79.380716,Toy Store
+277,"Harbourfront East, Union Station, Toronto Islands",M5J,43.6408157,-79.3817523,Toy Terminal,50c37adbe4b0572e56f405be,43.646709,-79.403608,Toy Store
+278,"Harbourfront East, Union Station, Toronto Islands",M5J,43.6408157,-79.3817523,AnimeXtreme,4ad8bb1ff964a520201421e3,43.654118,-79.398199,Toy Store
+279,"Harbourfront East, Union Station, Toronto Islands",M5J,43.6408157,-79.3817523,Disney,522a616311d2b982aa3b8111,43.653755,-79.380001,Toy Store
+280,"Harbourfront East, Union Station, Toronto Islands",M5J,43.6408157,-79.3817523,Toy Terminal,4bcb4bb0511f95214725b1c7,43.639446,-79.380716,Toy Store
+281,"Harbourfront East, Union Station, Toronto Islands",M5J,43.6408157,-79.3817523,Game Trek,4ad4c063f964a52039f820e3,43.645609,-79.38165,Toy Store
+282,"Harbourfront East, Union Station, Toronto Islands",M5J,43.6408157,-79.3817523,Little Monkeys Treehouse,59ce92a12105c3413d8004fd,43.645883,-79.38174,Toy Store
+283,"Harbourfront East, Union Station, Toronto Islands",M5J,43.6408157,-79.3817523,Gametrek,4d5eed555c39b1f77f83f149,43.646211,-79.384177,Toy Store
+284,"Harbourfront East, Union Station, Toronto Islands",M5J,43.6408157,-79.3817523,Toys Toys Toys,4de51feac65b7a3e215a1ce5,43.647327,-79.381176,Toy Store
+285,"Harbourfront East, Union Station, Toronto Islands",M5J,43.6408157,-79.3817523,Toys Toys Toys,4b197960f964a520fedd23e3,43.653062,-79.380265,Toy Store
+286,"Harbourfront East, Union Station, Toronto Islands",M5J,43.6408157,-79.3817523,Toys Toys Toys,4b33a155f964a520be1b25e3,43.644759,-79.392593,Toy Store
+287,"Harbourfront East, Union Station, Toronto Islands",M5J,43.6408157,-79.3817523,DinoDirect,4eb973676d86ba38ae4ab6a5,43.650562,-79.386879,Toy Store
+288,"Harbourfront East, Union Station, Toronto Islands",M5J,43.6408157,-79.3817523,Spinmaster,4b5dab03f964a520ef6529e3,43.642165,-79.39662,Toy Store
+292,"Harbourfront East, Union Station, Toronto Islands",M5J,43.6408157,-79.3817523,Mindzai,51b5f9a2454a4042828fbcbf,43.647115,-79.396474,Toy Store
+293,"Harbourfront East, Union Station, Toronto Islands",M5J,43.6408157,-79.3817523,Hestia International Inc,a5294142f21d4964645c78aa,43.647697,-79.396193,Toy Store
+294,"Harbourfront East, Union Station, Toronto Islands",M5J,43.6408157,-79.3817523,American Girl,567ed84f498e931068179a8a,43.654145,-79.380811,Toy Store
+295,"Harbourfront East, Union Station, Toronto Islands",M5J,43.6408157,-79.3817523,Super Toy,5dd82d56c61ceb00081add6c,43.640476,-79.402099,Toy Store
+296,"Harbourfront East, Union Station, Toronto Islands",M5J,43.6408157,-79.3817523,The Toy Space Inc,4b13ff31f964a5206a9b23e3,43.644222,-79.403071,Toy Store
+297,"Toronto Dominion Centre, Design Exchange",M5K,43.6471768,-79.3815764,Disney,522a616311d2b982aa3b8111,43.653755,-79.380001,Toy Store
+298,"Toronto Dominion Centre, Design Exchange",M5K,43.6471768,-79.3815764,AnimeXtreme,4ad8bb1ff964a520201421e3,43.654118,-79.398199,Toy Store
+299,"Toronto Dominion Centre, Design Exchange",M5K,43.6471768,-79.3815764,Toy Terminal,50c37adbe4b0572e56f405be,43.646709,-79.403608,Toy Store
+300,"Toronto Dominion Centre, Design Exchange",M5K,43.6471768,-79.3815764,Toys Toys Toys,4de51feac65b7a3e215a1ce5,43.647327,-79.381176,Toy Store
+301,"Toronto Dominion Centre, Design Exchange",M5K,43.6471768,-79.3815764,Little Monkeys Treehouse,59ce92a12105c3413d8004fd,43.645883,-79.38174,Toy Store
+302,"Toronto Dominion Centre, Design Exchange",M5K,43.6471768,-79.3815764,Game Trek,4ad4c063f964a52039f820e3,43.645609,-79.38165,Toy Store
+303,"Toronto Dominion Centre, Design Exchange",M5K,43.6471768,-79.3815764,Toys Toys Toys,4b197960f964a520fedd23e3,43.653062,-79.380265,Toy Store
+304,"Toronto Dominion Centre, Design Exchange",M5K,43.6471768,-79.3815764,Gametrek,4d5eed555c39b1f77f83f149,43.646211,-79.384177,Toy Store
+305,"Toronto Dominion Centre, Design Exchange",M5K,43.6471768,-79.3815764,DinoDirect,4eb973676d86ba38ae4ab6a5,43.650562,-79.386879,Toy Store
+307,"Toronto Dominion Centre, Design Exchange",M5K,43.6471768,-79.3815764,American Girl,567ed84f498e931068179a8a,43.654145,-79.380811,Toy Store
+308,"Toronto Dominion Centre, Design Exchange",M5K,43.6471768,-79.3815764,Toy Terminal,4bcb4bb0511f95214725b1c7,43.639446,-79.380716,Toy Store
+309,"Toronto Dominion Centre, Design Exchange",M5K,43.6471768,-79.3815764,Toys Toys Toys,4b33a155f964a520be1b25e3,43.644759,-79.392593,Toy Store
+310,"Toronto Dominion Centre, Design Exchange",M5K,43.6471768,-79.3815764,Hestia International Inc,a5294142f21d4964645c78aa,43.647697,-79.396193,Toy Store
+312,"Toronto Dominion Centre, Design Exchange",M5K,43.6471768,-79.3815764,Mindzai,51b5f9a2454a4042828fbcbf,43.647115,-79.396474,Toy Store
+313,"Toronto Dominion Centre, Design Exchange",M5K,43.6471768,-79.3815764,The Toy Space,4cd58f43dfb4a1cdf6e3595c,43.656818,-79.3904,Toy Store
+314,"Toronto Dominion Centre, Design Exchange",M5K,43.6471768,-79.3815764,Spinmaster,4b5dab03f964a520ef6529e3,43.642165,-79.39662,Toy Store
+315,"Toronto Dominion Centre, Design Exchange",M5K,43.6471768,-79.3815764,Tai Tai Trading,539dc1dd498ef219414a0544,43.653318,-79.396856,Toy Store
+317,"Commerce Court, Victoria Hotel",M5L,43.6481985,-79.3798169,Disney,522a616311d2b982aa3b8111,43.653755,-79.380001,Toy Store
+318,"Commerce Court, Victoria Hotel",M5L,43.6481985,-79.3798169,AnimeXtreme,4ad8bb1ff964a520201421e3,43.654118,-79.398199,Toy Store
+319,"Commerce Court, Victoria Hotel",M5L,43.6481985,-79.3798169,Toy Terminal,50c37adbe4b0572e56f405be,43.646709,-79.403608,Toy Store
+320,"Commerce Court, Victoria Hotel",M5L,43.6481985,-79.3798169,Toys Toys Toys,4b197960f964a520fedd23e3,43.653062,-79.380265,Toy Store
+321,"Commerce Court, Victoria Hotel",M5L,43.6481985,-79.3798169,Toys Toys Toys,4de51feac65b7a3e215a1ce5,43.647327,-79.381176,Toy Store
+322,"Commerce Court, Victoria Hotel",M5L,43.6481985,-79.3798169,Little Monkeys Treehouse,59ce92a12105c3413d8004fd,43.645883,-79.38174,Toy Store
+323,"Commerce Court, Victoria Hotel",M5L,43.6481985,-79.3798169,Game Trek,4ad4c063f964a52039f820e3,43.645609,-79.38165,Toy Store
+324,"Commerce Court, Victoria Hotel",M5L,43.6481985,-79.3798169,Gametrek,4d5eed555c39b1f77f83f149,43.646211,-79.384177,Toy Store
+326,"Commerce Court, Victoria Hotel",M5L,43.6481985,-79.3798169,DinoDirect,4eb973676d86ba38ae4ab6a5,43.650562,-79.386879,Toy Store
+327,"Commerce Court, Victoria Hotel",M5L,43.6481985,-79.3798169,American Girl,567ed84f498e931068179a8a,43.654145,-79.380811,Toy Store
+328,"Commerce Court, Victoria Hotel",M5L,43.6481985,-79.3798169,Toy Terminal,4bcb4bb0511f95214725b1c7,43.639446,-79.380716,Toy Store
+329,"Commerce Court, Victoria Hotel",M5L,43.6481985,-79.3798169,Toys Toys Toys,4b33a155f964a520be1b25e3,43.644759,-79.392593,Toy Store
+330,"Commerce Court, Victoria Hotel",M5L,43.6481985,-79.3798169,The Toy Space,4cd58f43dfb4a1cdf6e3595c,43.656818,-79.3904,Toy Store
+331,"Commerce Court, Victoria Hotel",M5L,43.6481985,-79.3798169,Hestia International Inc,a5294142f21d4964645c78aa,43.647697,-79.396193,Toy Store
+332,"Commerce Court, Victoria Hotel",M5L,43.6481985,-79.3798169,Mindzai,51b5f9a2454a4042828fbcbf,43.647115,-79.396474,Toy Store
+334,"Commerce Court, Victoria Hotel",M5L,43.6481985,-79.3798169,Tai Tai Trading,539dc1dd498ef219414a0544,43.653318,-79.396856,Toy Store
+335,"Commerce Court, Victoria Hotel",M5L,43.6481985,-79.3798169,Cheap Fifa 15 Coins Shop - Vipfifa15c,55461345498e0032a3820089,43.649778,-79.361277,Toy Store
+336,"Commerce Court, Victoria Hotel",M5L,43.6481985,-79.3798169,Spinmaster,4b5dab03f964a520ef6529e3,43.642165,-79.39662,Toy Store
+337,"University of Toronto, Harbord",M5S,43.6626956,-79.4000493,AnimeXtreme,4ad8bb1ff964a520201421e3,43.654118,-79.398199,Toy Store
+338,"University of Toronto, Harbord",M5S,43.6626956,-79.4000493,Toy Terminal,50c37adbe4b0572e56f405be,43.646709,-79.403608,Toy Store
+339,"University of Toronto, Harbord",M5S,43.6626956,-79.4000493,Disney,522a616311d2b982aa3b8111,43.653755,-79.380001,Toy Store
+340,"University of Toronto, Harbord",M5S,43.6626956,-79.4000493,Kingsway Inc,25a663b69edc4f9345672528,43.656357,-79.39907,Toy Store
+341,"University of Toronto, Harbord",M5S,43.6626956,-79.4000493,Golden Shine Trading,508ad60fe4b07e54b2b12404,43.655319,-79.398671,Toy Store
+342,"University of Toronto, Harbord",M5S,43.6626956,-79.4000493,Navito World,51b608c3498ed1f8f39272dc,43.654224,-79.397514,Toy Store
+343,"University of Toronto, Harbord",M5S,43.6626956,-79.4000493,The Toy Space,4cd58f43dfb4a1cdf6e3595c,43.656818,-79.3904,Toy Store
+344,"University of Toronto, Harbord",M5S,43.6626956,-79.4000493,Tai Tai Trading,539dc1dd498ef219414a0544,43.653318,-79.396856,Toy Store
+345,"University of Toronto, Harbord",M5S,43.6626956,-79.4000493,Mind Games Atrium on Bay,541463ca498e6856c61d0def,43.66978,-79.388164,Toy Store
+346,"University of Toronto, Harbord",M5S,43.6626956,-79.4000493,Toys Toys Toys,4b197960f964a520fedd23e3,43.653062,-79.380265,Toy Store
+347,"University of Toronto, Harbord",M5S,43.6626956,-79.4000493,Game and Hobby Zone,4c013560de3376b07b6ef9a4,43.670468,-79.387197,Toy Store
+348,"University of Toronto, Harbord",M5S,43.6626956,-79.4000493,Inquisitivekid,4bf81a3c5ec320a1241e88d3,43.67479,-79.394949,Toy Store
+349,"University of Toronto, Harbord",M5S,43.6626956,-79.4000493,Games Night,4b567fddf964a5200c1328e3,43.667397,-79.380769,Toy Store
+350,"University of Toronto, Harbord",M5S,43.6626956,-79.4000493,Hestia International Inc,a5294142f21d4964645c78aa,43.647697,-79.396193,Toy Store
+351,"University of Toronto, Harbord",M5S,43.6626956,-79.4000493,DinoDirect,4eb973676d86ba38ae4ab6a5,43.650562,-79.386879,Toy Store
+352,"University of Toronto, Harbord",M5S,43.6626956,-79.4000493,Mindzai,51b5f9a2454a4042828fbcbf,43.647115,-79.396474,Toy Store
+353,"University of Toronto, Harbord",M5S,43.6626956,-79.4000493,American Girl,567ed84f498e931068179a8a,43.654145,-79.380811,Toy Store
+354,"University of Toronto, Harbord",M5S,43.6626956,-79.4000493,MissBehav'n,4bd3566b046076b08bd57571,43.646421,-79.406788,Toy Store
+355,"University of Toronto, Harbord",M5S,43.6626956,-79.4000493,Toy Terminal,5d618581c79f3b00087bff93,43.646357,-79.409208,Toy Store
+357,"Kensington Market, Chinatown, Grange Park",M5T,43.6532057,-79.4000493,AnimeXtreme,4ad8bb1ff964a520201421e3,43.654118,-79.398199,Toy Store
+358,"Kensington Market, Chinatown, Grange Park",M5T,43.6532057,-79.4000493,Toy Terminal,50c37adbe4b0572e56f405be,43.646709,-79.403608,Toy Store
+359,"Kensington Market, Chinatown, Grange Park",M5T,43.6532057,-79.4000493,Disney,522a616311d2b982aa3b8111,43.653755,-79.380001,Toy Store
+360,"Kensington Market, Chinatown, Grange Park",M5T,43.6532057,-79.4000493,Navito World,51b608c3498ed1f8f39272dc,43.654224,-79.397514,Toy Store
+361,"Kensington Market, Chinatown, Grange Park",M5T,43.6532057,-79.4000493,Tai Tai Trading,539dc1dd498ef219414a0544,43.653318,-79.396856,Toy Store
+362,"Kensington Market, Chinatown, Grange Park",M5T,43.6532057,-79.4000493,Golden Shine Trading,508ad60fe4b07e54b2b12404,43.655319,-79.398671,Toy Store
+363,"Kensington Market, Chinatown, Grange Park",M5T,43.6532057,-79.4000493,Kingsway Inc,25a663b69edc4f9345672528,43.656357,-79.39907,Toy Store
+364,"Kensington Market, Chinatown, Grange Park",M5T,43.6532057,-79.4000493,Hestia International Inc,a5294142f21d4964645c78aa,43.647697,-79.396193,Toy Store
+365,"Kensington Market, Chinatown, Grange Park",M5T,43.6532057,-79.4000493,Mindzai,51b5f9a2454a4042828fbcbf,43.647115,-79.396474,Toy Store
+366,"Kensington Market, Chinatown, Grange Park",M5T,43.6532057,-79.4000493,The Toy Space,4cd58f43dfb4a1cdf6e3595c,43.656818,-79.3904,Toy Store
+367,"Kensington Market, Chinatown, Grange Park",M5T,43.6532057,-79.4000493,MissBehav'n,4bd3566b046076b08bd57571,43.646421,-79.406788,Toy Store
+369,"Kensington Market, Chinatown, Grange Park",M5T,43.6532057,-79.4000493,Toys Toys Toys,4b197960f964a520fedd23e3,43.653062,-79.380265,Toy Store
+370,"Kensington Market, Chinatown, Grange Park",M5T,43.6532057,-79.4000493,The Toy Space Inc,4b13ff31f964a5206a9b23e3,43.644222,-79.403071,Toy Store
+371,"Kensington Market, Chinatown, Grange Park",M5T,43.6532057,-79.4000493,Toy Terminal,5d618581c79f3b00087bff93,43.646357,-79.409208,Toy Store
+373,"Kensington Market, Chinatown, Grange Park",M5T,43.6532057,-79.4000493,DinoDirect,4eb973676d86ba38ae4ab6a5,43.650562,-79.386879,Toy Store
+374,"Kensington Market, Chinatown, Grange Park",M5T,43.6532057,-79.4000493,Toys Toys Toys,4b33a155f964a520be1b25e3,43.644759,-79.392593,Toy Store
+375,"Kensington Market, Chinatown, Grange Park",M5T,43.6532057,-79.4000493,Spinmaster,4b5dab03f964a520ef6529e3,43.642165,-79.39662,Toy Store
+376,"Kensington Market, Chinatown, Grange Park",M5T,43.6532057,-79.4000493,Polka Dot Kids,4d446dc13616b60ced42e4c2,43.645332,-79.412503,Toy Store
+377,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",M5V,43.6289467,-79.3944199,Toy Terminal,50c37adbe4b0572e56f405be,43.646709,-79.403608,Toy Store
+378,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",M5V,43.6289467,-79.3944199,Super Toy,5dd82d56c61ceb00081add6c,43.640476,-79.402099,Toy Store
+379,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",M5V,43.6289467,-79.3944199,Spinmaster,4b5dab03f964a520ef6529e3,43.642165,-79.39662,Toy Store
+380,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",M5V,43.6289467,-79.3944199,Toy Terminal,4bcb4bb0511f95214725b1c7,43.639446,-79.380716,Toy Store
+382,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",M5V,43.6289467,-79.3944199,Toys Toys Toys,4b33a155f964a520be1b25e3,43.644759,-79.392593,Toy Store
+384,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",M5V,43.6289467,-79.3944199,The Toy Space Inc,4b13ff31f964a5206a9b23e3,43.644222,-79.403071,Toy Store
+385,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",M5V,43.6289467,-79.3944199,Mindzai,51b5f9a2454a4042828fbcbf,43.647115,-79.396474,Toy Store
+386,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",M5V,43.6289467,-79.3944199,Gametrek,4d5eed555c39b1f77f83f149,43.646211,-79.384177,Toy Store
+387,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",M5V,43.6289467,-79.3944199,Hestia International Inc,a5294142f21d4964645c78aa,43.647697,-79.396193,Toy Store
+388,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",M5V,43.6289467,-79.3944199,Game Trek,4ad4c063f964a52039f820e3,43.645609,-79.38165,Toy Store
+389,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",M5V,43.6289467,-79.3944199,Little Monkeys Treehouse,59ce92a12105c3413d8004fd,43.645883,-79.38174,Toy Store
+390,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",M5V,43.6289467,-79.3944199,MissBehav'n,4bd3566b046076b08bd57571,43.646421,-79.406788,Toy Store
+391,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",M5V,43.6289467,-79.3944199,Toy Terminal,5d618581c79f3b00087bff93,43.646357,-79.409208,Toy Store
+392,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",M5V,43.6289467,-79.3944199,Toys Toys Toys,4de51feac65b7a3e215a1ce5,43.647327,-79.381176,Toy Store
+393,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",M5V,43.6289467,-79.3944199,Polka Dot Kids,4d446dc13616b60ced42e4c2,43.645332,-79.412503,Toy Store
+394,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport",M5V,43.6289467,-79.3944199,DinoDirect,4eb973676d86ba38ae4ab6a5,43.650562,-79.386879,Toy Store
+395,"First Canadian Place, Underground city",M5X,43.6484292,-79.3822802,Disney,522a616311d2b982aa3b8111,43.653755,-79.380001,Toy Store
+396,"First Canadian Place, Underground city",M5X,43.6484292,-79.3822802,AnimeXtreme,4ad8bb1ff964a520201421e3,43.654118,-79.398199,Toy Store
+397,"First Canadian Place, Underground city",M5X,43.6484292,-79.3822802,Toy Terminal,50c37adbe4b0572e56f405be,43.646709,-79.403608,Toy Store
+398,"First Canadian Place, Underground city",M5X,43.6484292,-79.3822802,Toys Toys Toys,4b197960f964a520fedd23e3,43.653062,-79.380265,Toy Store
+399,"First Canadian Place, Underground city",M5X,43.6484292,-79.3822802,Toys Toys Toys,4de51feac65b7a3e215a1ce5,43.647327,-79.381176,Toy Store
+400,"First Canadian Place, Underground city",M5X,43.6484292,-79.3822802,Little Monkeys Treehouse,59ce92a12105c3413d8004fd,43.645883,-79.38174,Toy Store
+401,"First Canadian Place, Underground city",M5X,43.6484292,-79.3822802,Gametrek,4d5eed555c39b1f77f83f149,43.646211,-79.384177,Toy Store
+402,"First Canadian Place, Underground city",M5X,43.6484292,-79.3822802,Game Trek,4ad4c063f964a52039f820e3,43.645609,-79.38165,Toy Store
+403,"First Canadian Place, Underground city",M5X,43.6484292,-79.3822802,DinoDirect,4eb973676d86ba38ae4ab6a5,43.650562,-79.386879,Toy Store
+404,"First Canadian Place, Underground city",M5X,43.6484292,-79.3822802,American Girl,567ed84f498e931068179a8a,43.654145,-79.380811,Toy Store
+406,"First Canadian Place, Underground city",M5X,43.6484292,-79.3822802,Toys Toys Toys,4b33a155f964a520be1b25e3,43.644759,-79.392593,Toy Store
+407,"First Canadian Place, Underground city",M5X,43.6484292,-79.3822802,Toy Terminal,4bcb4bb0511f95214725b1c7,43.639446,-79.380716,Toy Store
+408,"First Canadian Place, Underground city",M5X,43.6484292,-79.3822802,Hestia International Inc,a5294142f21d4964645c78aa,43.647697,-79.396193,Toy Store
+409,"First Canadian Place, Underground city",M5X,43.6484292,-79.3822802,The Toy Space,4cd58f43dfb4a1cdf6e3595c,43.656818,-79.3904,Toy Store
+410,"First Canadian Place, Underground city",M5X,43.6484292,-79.3822802,Mindzai,51b5f9a2454a4042828fbcbf,43.647115,-79.396474,Toy Store
+412,"First Canadian Place, Underground city",M5X,43.6484292,-79.3822802,Tai Tai Trading,539dc1dd498ef219414a0544,43.653318,-79.396856,Toy Store
+413,"First Canadian Place, Underground city",M5X,43.6484292,-79.3822802,Spinmaster,4b5dab03f964a520ef6529e3,43.642165,-79.39662,Toy Store
+414,"First Canadian Place, Underground city",M5X,43.6484292,-79.3822802,Navito World,51b608c3498ed1f8f39272dc,43.654224,-79.397514,Toy Store
+415,Christie,M6G,43.669542,-79.4225637,Toys R Us,5bc77571db2aeb002cb79360,43.657002,-79.43569,Toy Store
+416,Christie,M6G,43.669542,-79.4225637,Playful Minds,4b0ed055f964a520705b23e3,43.68173,-79.424592,Toy Store
+417,Christie,M6G,43.669542,-79.4225637,The Sword & Board,59668f3160d11b0ba1b697fa,43.658652,-79.439227,Toy Store
+418,Christie,M6G,43.669542,-79.4225637,R and C Spinners and Gadgets,1162944783a24e5e37e6ecb8,43.683509,-79.434842,Toy Store
+419,Christie,M6G,43.669542,-79.4225637,GameStop,4d83af34f1e56ea8b6c3658a,43.654703,-79.435648,Toy Store
+420,Christie,M6G,43.669542,-79.4225637,Inquisitivekid,4bf81a3c5ec320a1241e88d3,43.67479,-79.394949,Toy Store
+421,Christie,M6G,43.669542,-79.4225637,Kingsway Inc,25a663b69edc4f9345672528,43.656357,-79.39907,Toy Store
+422,Christie,M6G,43.669542,-79.4225637,Golden Shine Trading,508ad60fe4b07e54b2b12404,43.655319,-79.398671,Toy Store
+423,Christie,M6G,43.669542,-79.4225637,Nancy's,16f77a3e9e0a40322dee6b0f,43.664025,-79.410956,Toy Store
+426,Enclave of M5E,M5W,43.6464352,-79.374846,Disney,522a616311d2b982aa3b8111,43.653755,-79.380001,Toy Store
+427,Enclave of M5E,M5W,43.6464352,-79.374846,AnimeXtreme,4ad8bb1ff964a520201421e3,43.654118,-79.398199,Toy Store
+428,Enclave of M5E,M5W,43.6464352,-79.374846,Toy Terminal,50c37adbe4b0572e56f405be,43.646709,-79.403608,Toy Store
+429,Enclave of M5E,M5W,43.6464352,-79.374846,Toys Toys Toys,4b197960f964a520fedd23e3,43.653062,-79.380265,Toy Store
+430,Enclave of M5E,M5W,43.6464352,-79.374846,Toys Toys Toys,4de51feac65b7a3e215a1ce5,43.647327,-79.381176,Toy Store
+431,Enclave of M5E,M5W,43.6464352,-79.374846,Game Trek,4ad4c063f964a52039f820e3,43.645609,-79.38165,Toy Store
+432,Enclave of M5E,M5W,43.6464352,-79.374846,Little Monkeys Treehouse,59ce92a12105c3413d8004fd,43.645883,-79.38174,Toy Store
+434,Enclave of M5E,M5W,43.6464352,-79.374846,Gametrek,4d5eed555c39b1f77f83f149,43.646211,-79.384177,Toy Store
+435,Enclave of M5E,M5W,43.6464352,-79.374846,Toy Terminal,4bcb4bb0511f95214725b1c7,43.639446,-79.380716,Toy Store
+436,Enclave of M5E,M5W,43.6464352,-79.374846,American Girl,567ed84f498e931068179a8a,43.654145,-79.380811,Toy Store
+437,Enclave of M5E,M5W,43.6464352,-79.374846,DinoDirect,4eb973676d86ba38ae4ab6a5,43.650562,-79.386879,Toy Store
+438,Enclave of M5E,M5W,43.6464352,-79.374846,Cheap Fifa 15 Coins Shop - Vipfifa15c,55461345498e0032a3820089,43.649778,-79.361277,Toy Store
+439,Enclave of M5E,M5W,43.6464352,-79.374846,Toys Toys Toys,4b33a155f964a520be1b25e3,43.644759,-79.392593,Toy Store
+440,Enclave of M5E,M5W,43.6464352,-79.374846,The Toy Space,4cd58f43dfb4a1cdf6e3595c,43.656818,-79.3904,Toy Store
+442,Enclave of M5E,M5W,43.6464352,-79.374846,Hestia International Inc,a5294142f21d4964645c78aa,43.647697,-79.396193,Toy Store
+443,Enclave of M5E,M5W,43.6464352,-79.374846,Swappz,5159fefae4b02c83faf81e2e,43.656653,-79.358581,Toy Store
+444,Enclave of M5E,M5W,43.6464352,-79.374846,Mindzai,51b5f9a2454a4042828fbcbf,43.647115,-79.396474,Toy Store
+445,Enclave of M5E,M5W,43.6464352,-79.374846,Spinmaster,4b5dab03f964a520ef6529e3,43.642165,-79.39662,Toy Store
+446,The Beaches,M4E,43.6763574,-79.2930312,Face to Face Games Toronto,54021469498e50e6e1da1755,43.685329,-79.312795,Toy Store
+447,The Beaches,M4E,43.6763574,-79.2930312,Planet X,4ad8ced6f964a520db1421e3,43.670783,-79.295677,Toy Store
+448,The Beaches,M4E,43.6763574,-79.2930312,Smit Bart,8be28d624fdc42c7a385932d,43.678764,-79.277522,Toy Store
+449,The Beaches,M4E,43.6763574,-79.2930312,The Montessori Room,5f743539dd53a8329a176fc9,43.68632,-79.309162,Toy Store
+450,The Beaches,M4E,43.6763574,-79.2930312,Silly Goose Kids Inc,4e8760247ee6449cee893e44,43.685596,-79.313773,Toy Store
+451,The Beaches,M4E,43.6763574,-79.2930312,The Swag Sisters,4f81b456e4b06fa5177a6838,43.67272,-79.319506,Toy Store
+452,"The Danforth West, Riverdale",M4K,43.6795571,-79.352188,Treasure Island Toys Ltd,4bb74c12941ad13a687620e3,43.678455,-79.346652,Toy Store
+453,"The Danforth West, Riverdale",M4K,43.6795571,-79.352188,The 100-Mile Child,4dd95075fa76ad96d1529b1b,43.677498,-79.352909,Toy Store
+454,"The Danforth West, Riverdale",M4K,43.6795571,-79.352188,Strategy Games,63163ec5e87ce3582d12ec24,43.680453,-79.338408,Toy Store
+455,"The Danforth West, Riverdale",M4K,43.6795571,-79.352188,Treehouse Collectibles,5a8880cd22d4902a7355018a,43.685971,-79.339749,Toy Store
+456,"The Danforth West, Riverdale",M4K,43.6795571,-79.352188,Dragon Hobby,4f79f0cbe4b05bfd5992d598,43.666611,-79.355953,Toy Store
+458,"The Danforth West, Riverdale",M4K,43.6795571,-79.352188,GameStop,f2f388a4188cb8ecfd924978,43.669817,-79.339532,Toy Store
+459,"India Bazaar, The Beaches West",M4L,43.6689985,-79.3155716,Face to Face Games Toronto,54021469498e50e6e1da1755,43.685329,-79.312795,Toy Store
+460,"India Bazaar, The Beaches West",M4L,43.6689985,-79.3155716,The Swag Sisters,4f81b456e4b06fa5177a6838,43.67272,-79.319506,Toy Store
+461,"India Bazaar, The Beaches West",M4L,43.6689985,-79.3155716,Planet X,4ad8ced6f964a520db1421e3,43.670783,-79.295677,Toy Store
+462,"India Bazaar, The Beaches West",M4L,43.6689985,-79.3155716,Silly Goose Kids Inc,4e8760247ee6449cee893e44,43.685596,-79.313773,Toy Store
+463,"India Bazaar, The Beaches West",M4L,43.6689985,-79.3155716,The Montessori Room,5f743539dd53a8329a176fc9,43.68632,-79.309162,Toy Store
+465,"India Bazaar, The Beaches West",M4L,43.6689985,-79.3155716,Strategy Games,63163ec5e87ce3582d12ec24,43.680453,-79.338408,Toy Store
+466,"India Bazaar, The Beaches West",M4L,43.6689985,-79.3155716,GameStop,f2f388a4188cb8ecfd924978,43.669817,-79.339532,Toy Store
+467,Studio District,M4M,43.6595255,-79.340923,Treasure Island Toys Ltd,4bb74c12941ad13a687620e3,43.678455,-79.346652,Toy Store
+469,Studio District,M4M,43.6595255,-79.340923,Dragon Hobby,4f79f0cbe4b05bfd5992d598,43.666611,-79.355953,Toy Store
+470,Studio District,M4M,43.6595255,-79.340923,Swappz,5159fefae4b02c83faf81e2e,43.656653,-79.358581,Toy Store
+471,Studio District,M4M,43.6595255,-79.340923,Cheap Fifa 15 Coins Shop - Vipfifa15c,55461345498e0032a3820089,43.649778,-79.361277,Toy Store
+472,Studio District,M4M,43.6595255,-79.340923,The 100-Mile Child,4dd95075fa76ad96d1529b1b,43.677498,-79.352909,Toy Store
+473,Studio District,M4M,43.6595255,-79.340923,The Swag Sisters,4f81b456e4b06fa5177a6838,43.67272,-79.319506,Toy Store
+474,Studio District,M4M,43.6595255,-79.340923,Strategy Games,63163ec5e87ce3582d12ec24,43.680453,-79.338408,Toy Store
+475,Studio District,M4M,43.6595255,-79.340923,GameStop,f2f388a4188cb8ecfd924978,43.669817,-79.339532,Toy Store
+476,Studio District,M4M,43.6595255,-79.340923,Northmen Collectibles,3d2ee0c419214c629a784666,43.656426,-79.361725,Toy Store
+477,Enclave of M4L,M7Y,43.6627439,-79.321558,The Swag Sisters,4f81b456e4b06fa5177a6838,43.67272,-79.319506,Toy Store
+479,Enclave of M4L,M7Y,43.6627439,-79.321558,Planet X,4ad8ced6f964a520db1421e3,43.670783,-79.295677,Toy Store
+480,Enclave of M4L,M7Y,43.6627439,-79.321558,Strategy Games,63163ec5e87ce3582d12ec24,43.680453,-79.338408,Toy Store
+481,Enclave of M4L,M7Y,43.6627439,-79.321558,GameStop,f2f388a4188cb8ecfd924978,43.669817,-79.339532,Toy Store
+482,"Parkview Hill, Woodbine Gardens",M4B,43.7063972,-79.309937,Face to Face Games Toronto,54021469498e50e6e1da1755,43.685329,-79.312795,Toy Store
+483,"Parkview Hill, Woodbine Gardens",M4B,43.7063972,-79.309937,My Gifted Child Inc,5abfb94751950e53c2384c99,43.707438,-79.30285,Toy Store
+484,"Parkview Hill, Woodbine Gardens",M4B,43.7063972,-79.309937,Big Boy Toyz,4e945f805503852c34f6150f,43.710501,-79.293035,Toy Store
+485,"Parkview Hill, Woodbine Gardens",M4B,43.7063972,-79.309937,Wooden Puzzle Name Canada,5af3abd3c53093002c938c05,43.723563,-79.305109,Toy Store
+486,"Parkview Hill, Woodbine Gardens",M4B,43.7063972,-79.309937,The Montessori Room,5f743539dd53a8329a176fc9,43.68632,-79.309162,Toy Store
+487,"Parkview Hill, Woodbine Gardens",M4B,43.7063972,-79.309937,Silly Goose Kids Inc,4e8760247ee6449cee893e44,43.685596,-79.313773,Toy Store
+488,"Parkview Hill, Woodbine Gardens",M4B,43.7063972,-79.309937,Toys R Us,33da3c69db5a4d7e4168afcf,43.723065,-79.301098,Toy Store
+489,Woodbine Heights,M4C,43.6953439,-79.3183887,Face to Face Games Toronto,54021469498e50e6e1da1755,43.685329,-79.312795,Toy Store
+490,Woodbine Heights,M4C,43.6953439,-79.3183887,Silly Goose Kids Inc,4e8760247ee6449cee893e44,43.685596,-79.313773,Toy Store
+491,Woodbine Heights,M4C,43.6953439,-79.3183887,The Montessori Room,5f743539dd53a8329a176fc9,43.68632,-79.309162,Toy Store
+492,Woodbine Heights,M4C,43.6953439,-79.3183887,My Gifted Child Inc,5abfb94751950e53c2384c99,43.707438,-79.30285,Toy Store
+493,Woodbine Heights,M4C,43.6953439,-79.3183887,Treehouse Collectibles,5a8880cd22d4902a7355018a,43.685971,-79.339749,Toy Store
+494,Woodbine Heights,M4C,43.6953439,-79.3183887,Strategy Games,63163ec5e87ce3582d12ec24,43.680453,-79.338408,Toy Store
+495,Woodbine Heights,M4C,43.6953439,-79.3183887,Max Bargains,2e876e0298eb451a55911d49,43.705946,-79.343099,Toy Store
+496,Leaside,M4G,43.7090604,-79.3634517,Mastermind Toys,4b800918f964a5209a4c30e3,43.704802,-79.388411,Toy Store
+497,Leaside,M4G,43.7090604,-79.3634517,Toys R Us,4ed54aba2c5b695ac00344eb,43.706188,-79.346741,Toy Store
+498,Leaside,M4G,43.7090604,-79.3634517,Strategy Games,4ce94fa2f3bda1439928bfe4,43.706434,-79.389139,Toy Store
+499,Leaside,M4G,43.7090604,-79.3634517,Little Dollhouse Co,4db326514df05e5aaac4c04f,43.703946,-79.388602,Toy Store
+501,Leaside,M4G,43.7090604,-79.3634517,Max Bargains,2e876e0298eb451a55911d49,43.705946,-79.343099,Toy Store
+502,Thorncliffe Park,M4H,43.7053689,-79.3493719,Toys R Us,4ed54aba2c5b695ac00344eb,43.706188,-79.346741,Toy Store
+503,Thorncliffe Park,M4H,43.7053689,-79.3493719,Treehouse Collectibles,5a8880cd22d4902a7355018a,43.685971,-79.339749,Toy Store
+504,Thorncliffe Park,M4H,43.7053689,-79.3493719,Max Bargains,2e876e0298eb451a55911d49,43.705946,-79.343099,Toy Store
+505,The Danforth East,M4J,43.685347,-79.3381065,Face to Face Games Toronto,54021469498e50e6e1da1755,43.685329,-79.312795,Toy Store
+506,The Danforth East,M4J,43.685347,-79.3381065,Treasure Island Toys Ltd,4bb74c12941ad13a687620e3,43.678455,-79.346652,Toy Store
+507,The Danforth East,M4J,43.685347,-79.3381065,Treehouse Collectibles,5a8880cd22d4902a7355018a,43.685971,-79.339749,Toy Store
+508,The Danforth East,M4J,43.685347,-79.3381065,Toys R Us,4ed54aba2c5b695ac00344eb,43.706188,-79.346741,Toy Store
+509,The Danforth East,M4J,43.685347,-79.3381065,Strategy Games,63163ec5e87ce3582d12ec24,43.680453,-79.338408,Toy Store
+510,The Danforth East,M4J,43.685347,-79.3381065,The 100-Mile Child,4dd95075fa76ad96d1529b1b,43.677498,-79.352909,Toy Store
+511,The Danforth East,M4J,43.685347,-79.3381065,Silly Goose Kids Inc,4e8760247ee6449cee893e44,43.685596,-79.313773,Toy Store
+512,The Danforth East,M4J,43.685347,-79.3381065,The Swag Sisters,4f81b456e4b06fa5177a6838,43.67272,-79.319506,Toy Store
+513,The Danforth East,M4J,43.685347,-79.3381065,The Montessori Room,5f743539dd53a8329a176fc9,43.68632,-79.309162,Toy Store
+515,The Danforth East,M4J,43.685347,-79.3381065,GameStop,f2f388a4188cb8ecfd924978,43.669817,-79.339532,Toy Store
+516,The Danforth East,M4J,43.685347,-79.3381065,Max Bargains,2e876e0298eb451a55911d49,43.705946,-79.343099,Toy Store
+517,"New Toronto, Mimico South, Humber Bay Shores",M8V,43.6056466,-79.5013207,Samko & Miko,4c9df89c2fb1a143df61e540,43.601529,-79.528473,Toy Store
+518,"New Toronto, Mimico South, Humber Bay Shores",M8V,43.6056466,-79.5013207,Samko Party Svc,e4a46345d79148f71d577653,43.601352,-79.528585,Toy Store
+519,"New Toronto, Mimico South, Humber Bay Shores",M8V,43.6056466,-79.5013207,Mini Circuit Wheels For Kids,4bad39d5f964a520623b3be3,43.625946,-79.503279,Toy Store
+520,"New Toronto, Mimico South, Humber Bay Shores",M8V,43.6056466,-79.5013207,Samko Sales,f3acfee928d6414d310774df,43.601886,-79.528952,Toy Store
+521,"Alderwood, Long Branch",M8W,43.6024137,-79.5434841,Samko & Miko,4c9df89c2fb1a143df61e540,43.601529,-79.528473,Toy Store
+522,"Alderwood, Long Branch",M8W,43.6024137,-79.5434841,Toys R Us,4ae32e55f964a5205b9121e3,43.609702,-79.556053,Toy Store
+523,"Alderwood, Long Branch",M8W,43.6024137,-79.5434841,Samko Sales,f3acfee928d6414d310774df,43.601886,-79.528952,Toy Store
+524,"Alderwood, Long Branch",M8W,43.6024137,-79.5434841,Samko Party Svc,e4a46345d79148f71d577653,43.601352,-79.528585,Toy Store
+525,"Alderwood, Long Branch",M8W,43.6024137,-79.5434841,Scholar's Choice Retail Store,4c80238ed34ca143408f1680,43.615606,-79.55893,Toy Store
+527,"Alderwood, Long Branch",M8W,43.6024137,-79.5434841,Toys R Us,4faea2aae4b02f54b835f96a,43.593021,-79.569119,Toy Store
+528,"Alderwood, Long Branch",M8W,43.6024137,-79.5434841,Toys Toys Toys,532f1b7811d258d8fba95c17,43.593021,-79.569119,Toy Store
+529,"Alderwood, Long Branch",M8W,43.6024137,-79.5434841,GameStop,002d5db16dcbac7d226d8f45,43.616598,-79.555401,Toy Store
+530,"The Kingsway, Montgomery Road, Old Mill North",M8X,43.6536536,-79.5069436,Mastermind Educational,4b904448f964a520038033e3,43.659849,-79.514004,Toy Store
+531,"The Kingsway, Montgomery Road, Old Mill North",M8X,43.6536536,-79.5069436,Animal Crackers,f467c100449a42f4f479a476,43.662762,-79.520182,Toy Store
+532,"The Kingsway, Montgomery Road, Old Mill North",M8X,43.6536536,-79.5069436,Little Lola,4c7c2795744d8cfa86e2b937,43.658548,-79.48742,Toy Store
+533,"The Kingsway, Montgomery Road, Old Mill North",M8X,43.6536536,-79.5069436,GameStop,c372e5426faa15fb850229f4,43.668642,-79.483765,Toy Store
+534,"Old Mill South, King's Mill Park, Sunnylea, Humber Bay, Mimico NE, The Queensway East, Royal York South East, Kingsway Park South East",M8Y,43.6362579,-79.4985091,Mini Circuit Wheels For Kids,4bad39d5f964a520623b3be3,43.625946,-79.503279,Toy Store
+535,"Old Mill South, King's Mill Park, Sunnylea, Humber Bay, Mimico NE, The Queensway East, Royal York South East, Kingsway Park South East",M8Y,43.6362579,-79.4985091,Smarty Pants Kids Consignment Sale,5241ffc311d265868476b03c,43.630813,-79.521778,Toy Store
+536,"Mimico NW, The Queensway West, South of Bloor, Kingsway Park South West, Royal York South West",M8Z,43.6288408,-79.5209994,Smarty Pants Kids Consignment Sale,5241ffc311d265868476b03c,43.630813,-79.521778,Toy Store
+537,"Mimico NW, The Queensway West, South of Bloor, Kingsway Park South West, Royal York South West",M8Z,43.6288408,-79.5209994,Mini Circuit Wheels For Kids,4bad39d5f964a520623b3be3,43.625946,-79.503279,Toy Store
+538,Islington Avenue,M9A,43.6678556,-79.5322424,Mastermind Educational,4b904448f964a520038033e3,43.659849,-79.514004,Toy Store
+539,Islington Avenue,M9A,43.6678556,-79.5322424,Animal Crackers,f467c100449a42f4f479a476,43.662762,-79.520182,Toy Store
+540,"West Deane Park, Princess Gardens, Martin Grove, Islington, Cloverdale",M9B,43.6509432,-79.5547244,Toy City Plus,58f21c511ffe9748fd4bb550,43.630754,-79.554483,Toy Store
+541,"Eringate, Bloordale Gardens, Old Burnhamthorpe, Markland Wood",M9C,43.6435152,-79.5772008,Toy City Plus,58f21c511ffe9748fd4bb550,43.630754,-79.554483,Toy Store
+542,"Eringate, Bloordale Gardens, Old Burnhamthorpe, Markland Wood",M9C,43.6435152,-79.5772008,Big Boy's With Cool Toys,4dd7de1ad4c05d5096f3d479,43.623095,-79.569964,Toy Store
+543,"Eringate, Bloordale Gardens, Old Burnhamthorpe, Markland Wood",M9C,43.6435152,-79.5772008,Discovery Toys Canada,0c3cfd46656340347aba558c,43.663503,-79.589052,Toy Store
+544,"Eringate, Bloordale Gardens, Old Burnhamthorpe, Markland Wood",M9C,43.6435152,-79.5772008,Hasbro Sales Corp,d5ff77d35e5241abbfd33d69,43.659283,-79.598229,Toy Store
+545,Westmount,M9P,43.696319,-79.5322424,Syndrome Gaming,1ea4bdb7f739447767da854a,43.702482,-79.503975,Toy Store
+546,"Kingsview Village, St. Phillips, Martin Grove Gardens, Richview Gardens",M9R,43.6889054,-79.5547244,Starburst Coin Machines,2eb4c2453cf843f863e704cd,43.696886,-79.566064,Toy Store
+547,"Clairville, Humberwood, Woodbine Downs, West Humber, Kipling Heights, Rexdale, Elms, Tandridge, Old Rexdale",M9W,43.7067483,-79.5940544,Toyland Corp,0ebcae84732f42026e88a3f6,43.718341,-79.600943,Toy Store
+548,Enclave of L4W,M7R,43.6369656,-79.615819,Lolomomo Inc,ad28385c59564d9fb852b45a,43.627508,-79.627559,Toy Store
+549,Enclave of L4W,M7R,43.6369656,-79.615819,RP Toys Ltd,6c5796e64b25474dc1787b0c,43.639979,-79.641719,Toy Store
+551,Hillcrest Village,M2H,43.8037622,-79.3634517,Toy Factory Collectibles,d934bf8db79c4fd3bb96217f,43.822289,-79.352975,Toy Store
+553,Hillcrest Village,M2H,43.8037622,-79.3634517,ToyTexx Inc,567eb170893f48b828616371,43.825084,-79.359426,Toy Store
+554,"Fairview, Henry Farm, Oriole",M2J,43.7785175,-79.3465557,Lego,4e848fbb5c5c9240de8e6a80,43.777859,-79.344658,Toy Store
+555,"Fairview, Henry Farm, Oriole",M2J,43.7785175,-79.3465557,Lego Canada Inc,2596967f7b6f4ca762a55fd3,43.778755,-79.344707,Toy Store
+556,"Fairview, Henry Farm, Oriole",M2J,43.7785175,-79.3465557,The LEGO Store Fairview Mall,90f56c889ad74f8e0edbcd1f,43.777807,-79.344603,Toy Store
+557,"Fairview, Henry Farm, Oriole",M2J,43.7785175,-79.3465557,Toys Toys Toys,4b3a3a9cf964a5209d6225e3,43.777754,-79.344548,Toy Store
+558,"Fairview, Henry Farm, Oriole",M2J,43.7785175,-79.3465557,Fuzzy Friends,716763a3a71d417135a7eae5,43.777754,-79.344548,Toy Store
+559,"Fairview, Henry Farm, Oriole",M2J,43.7785175,-79.3465557,F G Bradley's,576f52e4cd104243c4343979,43.775552,-79.343918,Toy Store
+560,"Fairview, Henry Farm, Oriole",M2J,43.7785175,-79.3465557,kids Bedding Sets,536b1052498e99c3eef37f17,43.779982,-79.361966,Toy Store
+561,"Fairview, Henry Farm, Oriole",M2J,43.7785175,-79.3465557,GameStop,00e51de51f24db39d9f28043,43.7779,-79.343305,Toy Store
+562,Bayview Village,M2K,43.7869473,-79.385975,Mastermind Toys,509acb92e4b071145b36a5a5,43.769215,-79.388799,Toy Store
+563,Bayview Village,M2K,43.7869473,-79.385975,kids Bedding Sets,536b1052498e99c3eef37f17,43.779982,-79.361966,Toy Store
+564,"York Mills, Silver Hills",M2L,43.7574902,-79.3747141,Mastermind Toys,509acb92e4b071145b36a5a5,43.769215,-79.388799,Toy Store
+566,"Willowdale, Newtonbrook",M2M,43.789053,-79.4084928,Scholar's Choice Retail Store,4c55bd251b46c9b6353bc0d0,43.78619,-79.417436,Toy Store
+567,"Willowdale, Newtonbrook",M2M,43.789053,-79.4084928,Friendly Troll,4e5d56097d8bcd38b7e0b036,43.772387,-79.414007,Toy Store
+568,"Willowdale, Newtonbrook",M2M,43.789053,-79.4084928,ToysRUs,5a22f7ab3149b940694b5bb5,43.796233,-79.430067,Toy Store
+569,"Willowdale, Newtonbrook",M2M,43.789053,-79.4084928,Etch a Sketch,443079d0afcc477d0c752db6,43.796696,-79.430657,Toy Store
+570,Willowdale) Sout,M2N,43.7701199,-79.4084928,Mastermind Toys,509acb92e4b071145b36a5a5,43.769215,-79.388799,Toy Store
+571,Willowdale) Sout,M2N,43.7701199,-79.4084928,Friendly Troll,4e5d56097d8bcd38b7e0b036,43.772387,-79.414007,Toy Store
+572,Willowdale) Sout,M2N,43.7701199,-79.4084928,X2 AKiHABRA 秋葉原駅 北約克店·綠樓·前線基地,5f6e05796d20cb5900a4cb9b,43.759897,-79.411868,Toy Store
+573,Willowdale) Sout,M2N,43.7701199,-79.4084928,Scholar's Choice Retail Store,4c55bd251b46c9b6353bc0d0,43.78619,-79.417436,Toy Store
+574,York Mills West,M2P,43.7527583,-79.4000493,Mastermind Toys,4adb6c97f964a5204c2721e3,43.732021,-79.404225,Toy Store
+575,York Mills West,M2P,43.7527583,-79.4000493,Mastermind Toys,509acb92e4b071145b36a5a5,43.769215,-79.388799,Toy Store
+576,York Mills West,M2P,43.7527583,-79.4000493,X2 AKiHABRA 秋葉原駅 北約克店·綠樓·前線基地,5f6e05796d20cb5900a4cb9b,43.759897,-79.411868,Toy Store
+577,York Mills West,M2P,43.7527583,-79.4000493,Friendly Troll,4e5d56097d8bcd38b7e0b036,43.772387,-79.414007,Toy Store
+578,Willowdale) Wes,M2R,43.7827364,-79.4422593,ToysRUs,5a22f7ab3149b940694b5bb5,43.796233,-79.430067,Toy Store
+579,Willowdale) Wes,M2R,43.7827364,-79.4422593,Scholar's Choice Retail Store,4c55bd251b46c9b6353bc0d0,43.78619,-79.417436,Toy Store
+580,Willowdale) Wes,M2R,43.7827364,-79.4422593,Etch a Sketch,443079d0afcc477d0c752db6,43.796696,-79.430657,Toy Store
+581,Parkwoods,M3A,43.7532586,-79.3296565,Toy Centre,577e95b4498ea87eb06bf1cb,43.757093,-79.31227,Toy Store
+582,Parkwoods,M3A,43.7532586,-79.3296565,Toys R Us,4b520ceef964a520246427e3,43.743175,-79.312838,Toy Store
+585,Don Mills) South (Flemingdon Park,M3C,43.7258997,-79.340923,Toys R Us,4ed54aba2c5b695ac00344eb,43.706188,-79.346741,Toy Store
+586,Don Mills) South (Flemingdon Park,M3C,43.7258997,-79.340923,Max Bargains,2e876e0298eb451a55911d49,43.705946,-79.343099,Toy Store
+589,"Northwood Park, York University",M3J,43.7679803,-79.4872619,Zibbers Inc,01db1e84aa7f46821edd0cba,43.776278,-79.477731,Toy Store
+590,"Northwood Park, York University",M3J,43.7679803,-79.4872619,Best-Made Toys Ltd,5a92169c5c94448bc0c8cb53,43.754989,-79.482916,Toy Store
+591,"Northwood Park, York University",M3J,43.7679803,-79.4872619,HQV Inc,272469433a1749d16f9ac215,43.779552,-79.473712,Toy Store
+592,"Northwood Park, York University",M3J,43.7679803,-79.4872619,Kids Cars Ca - Kids Ride on Cars Dealership,4d15454fcafb474d97ee2b31,43.774869,-79.493114,Toy Store
+593,"Northwood Park, York University",M3J,43.7679803,-79.4872619,Me and My Teddy Plus,6b273e95ad674e88f1f45d1c,43.773453,-79.477931,Toy Store
+594,"Northwood Park, York University",M3J,43.7679803,-79.4872619,GameStop,a81a28b5367b240b2e3c4b28,43.786031,-79.474289,Toy Store
+595,"Northwood Park, York University",M3J,43.7679803,-79.4872619,Baby & Associates,fd70cddec160ffb831515f06,43.787227,-79.497835,Toy Store
+596,Downsview) East (CFB Toronto,M3K,43.7374732,-79.4647633,LEGO Store,51916e18498e1375cd9ec720,43.725151,-79.452998,Toy Store
+597,Downsview) East (CFB Toronto,M3K,43.7374732,-79.4647633,Go Toys & Games,4c9f67160313370487bd71d5,43.725965,-79.454159,Toy Store
+598,Downsview) East (CFB Toronto,M3K,43.7374732,-79.4647633,Best-Made Toys Ltd,5a92169c5c94448bc0c8cb53,43.754989,-79.482916,Toy Store
+599,Downsview) East (CFB Toronto,M3K,43.7374732,-79.4647633,Kidnetix Edu-Play Centre Inc,4e9436ca0bb343904f5cb5ef,43.726292,-79.461985,Toy Store
+600,Downsview) East (CFB Toronto,M3K,43.7374732,-79.4647633,The Rocking Tv,a19abc4401be468e85ef3796,43.74431,-79.486766,Toy Store
+601,Downsview) Wes,M3L,43.7390146,-79.5069436,Toys & Gifts,50921846923642c1394120ba,43.720955,-79.512493,Toy Store
+602,Downsview) Wes,M3L,43.7390146,-79.5069436,Catcha Card Games,60faf0caa5dc686ab72526a3,43.721181,-79.493378,Toy Store
+604,Downsview) Wes,M3L,43.7390146,-79.5069436,The Rocking Tv,a19abc4401be468e85ef3796,43.74431,-79.486766,Toy Store
+605,Downsview) Centra,M3M,43.7284964,-79.4956974,Catcha Card Games,60faf0caa5dc686ab72526a3,43.721181,-79.493378,Toy Store
+606,Downsview) Centra,M3M,43.7284964,-79.4956974,Toys & Gifts,50921846923642c1394120ba,43.720955,-79.512493,Toy Store
+607,Downsview) Centra,M3M,43.7284964,-79.4956974,The Rocking Tv,a19abc4401be468e85ef3796,43.74431,-79.486766,Toy Store
+610,Downsview) Northwes,M3N,43.7616313,-79.5209994,The Canadian Group,0eb27b708eac42a3711c97dc,43.768958,-79.54208,Toy Store
+611,Victoria Village,M4A,43.7258823,-79.3155716,Wooden Puzzle Name Canada,5af3abd3c53093002c938c05,43.723563,-79.305109,Toy Store
+612,Victoria Village,M4A,43.7258823,-79.3155716,Toys R Us,4b520ceef964a520246427e3,43.743175,-79.312838,Toy Store
+613,Victoria Village,M4A,43.7258823,-79.3155716,My Gifted Child Inc,5abfb94751950e53c2384c99,43.707438,-79.30285,Toy Store
+614,Victoria Village,M4A,43.7258823,-79.3155716,Big Boy Toyz,4e945f805503852c34f6150f,43.710501,-79.293035,Toy Store
+615,Victoria Village,M4A,43.7258823,-79.3155716,Toys R Us,33da3c69db5a4d7e4168afcf,43.723065,-79.301098,Toy Store
+616,Victoria Village,M4A,43.7258823,-79.3155716,GameStop,c76b4a763ac9d011054d8949,43.727322,-79.293434,Toy Store
+617,"Bedford Park, Lawrence Manor East",M5M,43.7332825,-79.4197497,Mastermind Toys,4adb6c97f964a5204c2721e3,43.732021,-79.404225,Toy Store
+618,"Bedford Park, Lawrence Manor East",M5M,43.7332825,-79.4197497,Toy town,4c41b5b7e26920a15bd15ee7,43.729114,-79.418699,Toy Store
+619,"Bedford Park, Lawrence Manor East",M5M,43.7332825,-79.4197497,Toytown,4bcb583d511f95218c44b1c7,43.729121,-79.418607,Toy Store
+620,"Bedford Park, Lawrence Manor East",M5M,43.7332825,-79.4197497,401 Games,5b76f1f1a2c00b002ca82644,43.719146,-79.401279,Toy Store
+621,"Bedford Park, Lawrence Manor East",M5M,43.7332825,-79.4197497,Toys Toys Toys,4b7eddb4f964a520590530e3,43.715945,-79.400487,Toy Store
+622,"Lawrence Manor, Lawrence Heights",M6A,43.718518,-79.4647633,LEGO Store,51916e18498e1375cd9ec720,43.725151,-79.452998,Toy Store
+623,"Lawrence Manor, Lawrence Heights",M6A,43.718518,-79.4647633,Go Toys & Games,4c9f67160313370487bd71d5,43.725965,-79.454159,Toy Store
+624,"Lawrence Manor, Lawrence Heights",M6A,43.718518,-79.4647633,Catcha Card Games,60faf0caa5dc686ab72526a3,43.721181,-79.493378,Toy Store
+625,"Lawrence Manor, Lawrence Heights",M6A,43.718518,-79.4647633,Kidnetix Edu-Play Centre Inc,4e9436ca0bb343904f5cb5ef,43.726292,-79.461985,Toy Store
+626,"Lawrence Manor, Lawrence Heights",M6A,43.718518,-79.4647633,Toys R Us,941a58465fa682c59f9b8935,43.716461,-79.447387,Toy Store
+627,Glencairn,M6B,43.709577,-79.4450726,LEGO Store,51916e18498e1375cd9ec720,43.725151,-79.452998,Toy Store
+628,Glencairn,M6B,43.709577,-79.4450726,Go Toys & Games,4c9f67160313370487bd71d5,43.725965,-79.454159,Toy Store
+629,Glencairn,M6B,43.709577,-79.4450726,Toys R Us,941a58465fa682c59f9b8935,43.716461,-79.447387,Toy Store
+630,Glencairn,M6B,43.709577,-79.4450726,Kidnetix Edu-Play Centre Inc,4e9436ca0bb343904f5cb5ef,43.726292,-79.461985,Toy Store
+631,"North Park, Maple Leaf Park, Upwood Park",M6L,43.7137562,-79.4900738,Catcha Card Games,60faf0caa5dc686ab72526a3,43.721181,-79.493378,Toy Store
+632,"North Park, Maple Leaf Park, Upwood Park",M6L,43.7137562,-79.4900738,Syndrome Gaming,1ea4bdb7f739447767da854a,43.702482,-79.503975,Toy Store
+633,"North Park, Maple Leaf Park, Upwood Park",M6L,43.7137562,-79.4900738,Toys & Gifts,50921846923642c1394120ba,43.720955,-79.512493,Toy Store
+634,Humber Summit,M9L,43.7563033,-79.5659633,The Canadian Group,0eb27b708eac42a3711c97dc,43.768958,-79.54208,Toy Store
+635,"Humberlea, Emery",M9M,43.7247659,-79.5322424,Toys & Gifts,50921846923642c1394120ba,43.720955,-79.512493,Toy Store
+636,Ontario Provincial Government,M7A,43.6623015,-79.3894938,AnimeXtreme,4ad8bb1ff964a520201421e3,43.654118,-79.398199,Toy Store
+637,Ontario Provincial Government,M7A,43.6623015,-79.3894938,Disney,522a616311d2b982aa3b8111,43.653755,-79.380001,Toy Store
+638,Ontario Provincial Government,M7A,43.6623015,-79.3894938,Toy Terminal,50c37adbe4b0572e56f405be,43.646709,-79.403608,Toy Store
+639,Ontario Provincial Government,M7A,43.6623015,-79.3894938,The Toy Space,4cd58f43dfb4a1cdf6e3595c,43.656818,-79.3904,Toy Store
+640,Ontario Provincial Government,M7A,43.6623015,-79.3894938,Toys Toys Toys,4b197960f964a520fedd23e3,43.653062,-79.380265,Toy Store
+641,Ontario Provincial Government,M7A,43.6623015,-79.3894938,Mind Games Atrium on Bay,541463ca498e6856c61d0def,43.66978,-79.388164,Toy Store
+642,Ontario Provincial Government,M7A,43.6623015,-79.3894938,Games Night,4b567fddf964a5200c1328e3,43.667397,-79.380769,Toy Store
+643,Ontario Provincial Government,M7A,43.6623015,-79.3894938,Game and Hobby Zone,4c013560de3376b07b6ef9a4,43.670468,-79.387197,Toy Store
+644,Ontario Provincial Government,M7A,43.6623015,-79.3894938,Kingsway Inc,25a663b69edc4f9345672528,43.656357,-79.39907,Toy Store
+645,Ontario Provincial Government,M7A,43.6623015,-79.3894938,Golden Shine Trading,508ad60fe4b07e54b2b12404,43.655319,-79.398671,Toy Store
+646,Ontario Provincial Government,M7A,43.6623015,-79.3894938,Navito World,51b608c3498ed1f8f39272dc,43.654224,-79.397514,Toy Store
+647,Ontario Provincial Government,M7A,43.6623015,-79.3894938,American Girl,567ed84f498e931068179a8a,43.654145,-79.380811,Toy Store
+648,Ontario Provincial Government,M7A,43.6623015,-79.3894938,Tai Tai Trading,539dc1dd498ef219414a0544,43.653318,-79.396856,Toy Store
+649,Ontario Provincial Government,M7A,43.6623015,-79.3894938,DinoDirect,4eb973676d86ba38ae4ab6a5,43.650562,-79.386879,Toy Store
+650,Ontario Provincial Government,M7A,43.6623015,-79.3894938,Inquisitivekid,4bf81a3c5ec320a1241e88d3,43.67479,-79.394949,Toy Store
+652,Ontario Provincial Government,M7A,43.6623015,-79.3894938,Hestia International Inc,a5294142f21d4964645c78aa,43.647697,-79.396193,Toy Store
+653,Ontario Provincial Government,M7A,43.6623015,-79.3894938,Mindzai,51b5f9a2454a4042828fbcbf,43.647115,-79.396474,Toy Store
+654,Ontario Provincial Government,M7A,43.6623015,-79.3894938,Toys Toys Toys,4de51feac65b7a3e215a1ce5,43.647327,-79.381176,Toy Store
+655,Ontario Provincial Government,M7A,43.6623015,-79.3894938,Gametrek,4d5eed555c39b1f77f83f149,43.646211,-79.384177,Toy Store
+658,Woburn,M1G,43.7709921,-79.2169174,Toys R Us,4bf5a6bf5efe2d7f09b46534,43.75789,-79.227215,Toy Store
+659,Woburn,M1G,43.7709921,-79.2169174,Playwell Enterprises Ltd,b74d81ebabdc4ac16231d331,43.78333,-79.231371,Toy Store
+660,Woburn,M1G,43.7709921,-79.2169174,Mastermind Educational,4bfd8f1bf7c82d7f685c8e04,43.790419,-79.231258,Toy Store
+661,Cedarbrae,M1H,43.773136,-79.2394761,Toys R Us,4bf5a6bf5efe2d7f09b46534,43.75789,-79.227215,Toy Store
+662,Cedarbrae,M1H,43.773136,-79.2394761,Playwell Enterprises Ltd,b74d81ebabdc4ac16231d331,43.78333,-79.231371,Toy Store
+663,Cedarbrae,M1H,43.773136,-79.2394761,Toys Toys Toys,4b68797bf964a520eb7a2be3,43.775314,-79.257118,Toy Store
+664,Cedarbrae,M1H,43.773136,-79.2394761,Build-a-Bear Workshop Inc,9c5a58e7f09e5d977c3f3c24,43.775346,-79.258248,Toy Store
+665,Cedarbrae,M1H,43.773136,-79.2394761,GameStop,62c750769c9fb6759af30a5c,43.776824,-79.258011,Toy Store
+666,Cedarbrae,M1H,43.773136,-79.2394761,Toy World International,0f880b719dbf435eaca25e79,43.787121,-79.244434,Toy Store
+667,Cedarbrae,M1H,43.773136,-79.2394761,ToysRUs Express,4ee67eff6da14e7d9ba6698c,43.775417,-79.259618,Toy Store
+668,Cedarbrae,M1H,43.773136,-79.2394761,Mastermind Educational,4bfd8f1bf7c82d7f685c8e04,43.790419,-79.231258,Toy Store
+669,Scarborough Village,M1J,43.7447342,-79.2394761,Toys R Us,4bf5a6bf5efe2d7f09b46534,43.75789,-79.227215,Toy Store
+670,"Golden Mile, Clairlea, Oakridge",M1L,43.7111117,-79.2845772,Big Boy Toyz,4e945f805503852c34f6150f,43.710501,-79.293035,Toy Store
+671,"Golden Mile, Clairlea, Oakridge",M1L,43.7111117,-79.2845772,My Gifted Child Inc,5abfb94751950e53c2384c99,43.707438,-79.30285,Toy Store
+672,"Golden Mile, Clairlea, Oakridge",M1L,43.7111117,-79.2845772,Wooden Puzzle Name Canada,5af3abd3c53093002c938c05,43.723563,-79.305109,Toy Store
+673,"Golden Mile, Clairlea, Oakridge",M1L,43.7111117,-79.2845772,Toys R Us,33da3c69db5a4d7e4168afcf,43.723065,-79.301098,Toy Store
+674,"Golden Mile, Clairlea, Oakridge",M1L,43.7111117,-79.2845772,GameStop,c76b4a763ac9d011054d8949,43.727322,-79.293434,Toy Store
+675,"Birch Cliff, Cliffside West",M1N,43.692657,-79.2648481,Smit Bart,8be28d624fdc42c7a385932d,43.678764,-79.277522,Toy Store
+676,"Dorset Park, Wexford Heights, Scarborough Town Centre",M1P,43.7574096,-79.273304,Michaels,53e4f81c498ea330eb42dedb,43.774379,-79.281075,Toy Store
+677,"Dorset Park, Wexford Heights, Scarborough Town Centre",M1P,43.7574096,-79.273304,ToysRUs Express,4ee67eff6da14e7d9ba6698c,43.775417,-79.259618,Toy Store
+678,"Dorset Park, Wexford Heights, Scarborough Town Centre",M1P,43.7574096,-79.273304,Build-a-Bear Workshop Inc,9c5a58e7f09e5d977c3f3c24,43.775346,-79.258248,Toy Store
+679,"Dorset Park, Wexford Heights, Scarborough Town Centre",M1P,43.7574096,-79.273304,Toys Toys Toys,4b68797bf964a520eb7a2be3,43.775314,-79.257118,Toy Store
+680,"Dorset Park, Wexford Heights, Scarborough Town Centre",M1P,43.7574096,-79.273304,GameStop,62c750769c9fb6759af30a5c,43.776824,-79.258011,Toy Store
+681,"Wexford, Maryvale",M1R,43.7500715,-79.2958491,Toy Centre,577e95b4498ea87eb06bf1cb,43.757093,-79.31227,Toy Store
+682,"Wexford, Maryvale",M1R,43.7500715,-79.2958491,Toys R Us,4b520ceef964a520246427e3,43.743175,-79.312838,Toy Store
+683,Agincourt,M1S,43.7942003,-79.2620294,Toy World International,0f880b719dbf435eaca25e79,43.787121,-79.244434,Toy Store
+684,Agincourt,M1S,43.7942003,-79.2620294,GameStop,62c750769c9fb6759af30a5c,43.776824,-79.258011,Toy Store
+685,Agincourt,M1S,43.7942003,-79.2620294,ToysRUs Express,4ee67eff6da14e7d9ba6698c,43.775417,-79.259618,Toy Store
+686,Agincourt,M1S,43.7942003,-79.2620294,Build-a-Bear Workshop Inc,9c5a58e7f09e5d977c3f3c24,43.775346,-79.258248,Toy Store
+687,Agincourt,M1S,43.7942003,-79.2620294,Toys Toys Toys,4b68797bf964a520eb7a2be3,43.775314,-79.257118,Toy Store
+688,Agincourt,M1S,43.7942003,-79.2620294,Play Pretend Toys,031ad2de31a547c3ce9a6ee0,43.797759,-79.271795,Toy Store
+689,Agincourt,M1S,43.7942003,-79.2620294,2 Cool Toys,c71e590ada7a4d8a937c2138,43.783616,-79.288,Toy Store
+690,"Clarks Corners, Tam O'Shanter, Sullivan",M1T,43.7816375,-79.3043021,Michaels,53e4f81c498ea330eb42dedb,43.774379,-79.281075,Toy Store
+691,"Clarks Corners, Tam O'Shanter, Sullivan",M1T,43.7816375,-79.3043021,2 Cool Toys,c71e590ada7a4d8a937c2138,43.783616,-79.288,Toy Store
+692,"Clarks Corners, Tam O'Shanter, Sullivan",M1T,43.7816375,-79.3043021,Lion's Den Action Figures & Collectibles,8729be342e0c4400672e148d,43.796114,-79.325325,Toy Store
+693,"Milliken, Agincourt North, Steeles East, L'Amoreaux East",M1V,43.8152522,-79.2845772,Thinkamajigs,592f1ca595a72265915320a3,43.818027,-79.299656,Toy Store
+694,"Milliken, Agincourt North, Steeles East, L'Amoreaux East",M1V,43.8152522,-79.2845772,Easy Kids,4cac8f4676d3a093dcbb326b,43.825533,-79.297695,Toy Store
+695,"Milliken, Agincourt North, Steeles East, L'Amoreaux East",M1V,43.8152522,-79.2845772,Tokyo PaPa,595966be840fc216ecbdbc72,43.826792,-79.306012,Toy Store
+696,"Milliken, Agincourt North, Steeles East, L'Amoreaux East",M1V,43.8152522,-79.2845772,Avatar Toy Inc,fee7cbdb6f2147a05d5eefce,43.824395,-79.302584,Toy Store
+697,"Milliken, Agincourt North, Steeles East, L'Amoreaux East",M1V,43.8152522,-79.2845772,Perfect Gifts,87f41f42e26c07c747c434cc,43.82581,-79.306373,Toy Store
+698,"Milliken, Agincourt North, Steeles East, L'Amoreaux East",M1V,43.8152522,-79.2845772,Play Pretend Toys,031ad2de31a547c3ce9a6ee0,43.797759,-79.271795,Toy Store
+699,"Steeles West, L'Amoreaux West",M1W,43.7995252,-79.3183887,Lion's Den Action Figures & Collectibles,8729be342e0c4400672e148d,43.796114,-79.325325,Toy Store
+700,"Dufferin, Dovercourt Village",M6H,43.6690051,-79.4422593,Toys R Us,5bc77571db2aeb002cb79360,43.657002,-79.43569,Toy Store
+701,"Dufferin, Dovercourt Village",M6H,43.6690051,-79.4422593,The Sword & Board,59668f3160d11b0ba1b697fa,43.658652,-79.439227,Toy Store
+702,"Dufferin, Dovercourt Village",M6H,43.6690051,-79.4422593,GameStop,4d83af34f1e56ea8b6c3658a,43.654703,-79.435648,Toy Store
+703,"Dufferin, Dovercourt Village",M6H,43.6690051,-79.4422593,R and C Spinners and Gadgets,1162944783a24e5e37e6ecb8,43.683509,-79.434842,Toy Store
+704,"Dufferin, Dovercourt Village",M6H,43.6690051,-79.4422593,Playful Minds,4b0ed055f964a520705b23e3,43.68173,-79.424592,Toy Store
+706,"Little Portugal, Trinity",M6J,43.6479267,-79.4197497,Toy Terminal,50c37adbe4b0572e56f405be,43.646709,-79.403608,Toy Store
+707,"Little Portugal, Trinity",M6J,43.6479267,-79.4197497,Scooter Girl Toys,4bb27aad42959c74abe4202c,43.644911,-79.448289,Toy Store
+708,"Little Portugal, Trinity",M6J,43.6479267,-79.4197497,AnimeXtreme,4ad8bb1ff964a520201421e3,43.654118,-79.398199,Toy Store
+709,"Little Portugal, Trinity",M6J,43.6479267,-79.4197497,Toys R Us,5bc77571db2aeb002cb79360,43.657002,-79.43569,Toy Store
+710,"Little Portugal, Trinity",M6J,43.6479267,-79.4197497,Polka Dot Kids,4d446dc13616b60ced42e4c2,43.645332,-79.412503,Toy Store
+711,"Little Portugal, Trinity",M6J,43.6479267,-79.4197497,Toy Terminal,5d618581c79f3b00087bff93,43.646357,-79.409208,Toy Store
+712,"Little Portugal, Trinity",M6J,43.6479267,-79.4197497,MissBehav'n,4bd3566b046076b08bd57571,43.646421,-79.406788,Toy Store
+713,"Little Portugal, Trinity",M6J,43.6479267,-79.4197497,The Toy Space Inc,4b13ff31f964a5206a9b23e3,43.644222,-79.403071,Toy Store
+714,"Little Portugal, Trinity",M6J,43.6479267,-79.4197497,GameStop,4d83af34f1e56ea8b6c3658a,43.654703,-79.435648,Toy Store
+715,"Little Portugal, Trinity",M6J,43.6479267,-79.4197497,Super Toy,5dd82d56c61ceb00081add6c,43.640476,-79.402099,Toy Store
+717,"Little Portugal, Trinity",M6J,43.6479267,-79.4197497,Mindzai,51b5f9a2454a4042828fbcbf,43.647115,-79.396474,Toy Store
+718,"Little Portugal, Trinity",M6J,43.6479267,-79.4197497,Golden Shine Trading,508ad60fe4b07e54b2b12404,43.655319,-79.398671,Toy Store
+719,"Little Portugal, Trinity",M6J,43.6479267,-79.4197497,Hestia International Inc,a5294142f21d4964645c78aa,43.647697,-79.396193,Toy Store
+720,"Little Portugal, Trinity",M6J,43.6479267,-79.4197497,Kingsway Inc,25a663b69edc4f9345672528,43.656357,-79.39907,Toy Store
+721,"Little Portugal, Trinity",M6J,43.6479267,-79.4197497,Navito World,51b608c3498ed1f8f39272dc,43.654224,-79.397514,Toy Store
+723,"Little Portugal, Trinity",M6J,43.6479267,-79.4197497,Tai Tai Trading,539dc1dd498ef219414a0544,43.653318,-79.396856,Toy Store
+724,"Little Portugal, Trinity",M6J,43.6479267,-79.4197497,Spinmaster,4b5dab03f964a520ef6529e3,43.642165,-79.39662,Toy Store
+725,"Little Portugal, Trinity",M6J,43.6479267,-79.4197497,The Sword & Board,59668f3160d11b0ba1b697fa,43.658652,-79.439227,Toy Store
+726,"Brockton, Parkdale Village, Exhibition Place",M6K,43.6368472,-79.4281914,Scooter Girl Toys,4bb27aad42959c74abe4202c,43.644911,-79.448289,Toy Store
+727,"Brockton, Parkdale Village, Exhibition Place",M6K,43.6368472,-79.4281914,Toy Terminal,50c37adbe4b0572e56f405be,43.646709,-79.403608,Toy Store
+728,"Brockton, Parkdale Village, Exhibition Place",M6K,43.6368472,-79.4281914,Toys R Us,5bc77571db2aeb002cb79360,43.657002,-79.43569,Toy Store
+730,"Brockton, Parkdale Village, Exhibition Place",M6K,43.6368472,-79.4281914,Polka Dot Kids,4d446dc13616b60ced42e4c2,43.645332,-79.412503,Toy Store
+731,"Brockton, Parkdale Village, Exhibition Place",M6K,43.6368472,-79.4281914,Toy Terminal,5d618581c79f3b00087bff93,43.646357,-79.409208,Toy Store
+732,"Brockton, Parkdale Village, Exhibition Place",M6K,43.6368472,-79.4281914,MissBehav'n,4bd3566b046076b08bd57571,43.646421,-79.406788,Toy Store
+733,"Brockton, Parkdale Village, Exhibition Place",M6K,43.6368472,-79.4281914,GameStop,4d83af34f1e56ea8b6c3658a,43.654703,-79.435648,Toy Store
+734,"Brockton, Parkdale Village, Exhibition Place",M6K,43.6368472,-79.4281914,Super Toy,5dd82d56c61ceb00081add6c,43.640476,-79.402099,Toy Store
+735,"Brockton, Parkdale Village, Exhibition Place",M6K,43.6368472,-79.4281914,The Toy Space Inc,4b13ff31f964a5206a9b23e3,43.644222,-79.403071,Toy Store
+737,"High Park, The Junction South",M6P,43.6616083,-79.4647633,Scooter Girl Toys,4bb27aad42959c74abe4202c,43.644911,-79.448289,Toy Store
+738,"High Park, The Junction South",M6P,43.6616083,-79.4647633,Toys R Us,5bc77571db2aeb002cb79360,43.657002,-79.43569,Toy Store
+739,"High Park, The Junction South",M6P,43.6616083,-79.4647633,Little Lola,4c7c2795744d8cfa86e2b937,43.658548,-79.48742,Toy Store
+740,"High Park, The Junction South",M6P,43.6616083,-79.4647633,The Sword & Board,59668f3160d11b0ba1b697fa,43.658652,-79.439227,Toy Store
+741,"High Park, The Junction South",M6P,43.6616083,-79.4647633,GameStop,4d83af34f1e56ea8b6c3658a,43.654703,-79.435648,Toy Store
+742,"High Park, The Junction South",M6P,43.6616083,-79.4647633,GameStop,c372e5426faa15fb850229f4,43.668642,-79.483765,Toy Store
+743,"Parkdale, Roncesvalles",M6R,43.6489597,-79.456325,Scooter Girl Toys,4bb27aad42959c74abe4202c,43.644911,-79.448289,Toy Store
+744,"Parkdale, Roncesvalles",M6R,43.6489597,-79.456325,Toys R Us,5bc77571db2aeb002cb79360,43.657002,-79.43569,Toy Store
+746,"Parkdale, Roncesvalles",M6R,43.6489597,-79.456325,The Sword & Board,59668f3160d11b0ba1b697fa,43.658652,-79.439227,Toy Store
+747,"Parkdale, Roncesvalles",M6R,43.6489597,-79.456325,GameStop,4d83af34f1e56ea8b6c3658a,43.654703,-79.435648,Toy Store
+749,"Runnymede, Swansea",M6S,43.6515706,-79.4844499,Little Lola,4c7c2795744d8cfa86e2b937,43.658548,-79.48742,Toy Store
+750,"Runnymede, Swansea",M6S,43.6515706,-79.4844499,GameStop,c372e5426faa15fb850229f4,43.668642,-79.483765,Toy Store
+751,Humewood-Cedarvale,M6C,43.6937813,-79.4281914,R and C Spinners and Gadgets,1162944783a24e5e37e6ecb8,43.683509,-79.434842,Toy Store
+752,Humewood-Cedarvale,M6C,43.6937813,-79.4281914,Playful Minds,4b0ed055f964a520705b23e3,43.68173,-79.424592,Toy Store
+754,Caledonia-Fairbanks,M6E,43.6890256,-79.453512,R and C Spinners and Gadgets,1162944783a24e5e37e6ecb8,43.683509,-79.434842,Toy Store
+755,Caledonia-Fairbanks,M6E,43.6890256,-79.453512,Playful Minds,4b0ed055f964a520705b23e3,43.68173,-79.424592,Toy Store
+756,"Runnymede, The Junction North",M6N,43.6731853,-79.4872619,Little Lola,4c7c2795744d8cfa86e2b937,43.658548,-79.48742,Toy Store
+757,"Runnymede, The Junction North",M6N,43.6731853,-79.4872619,GameStop,c372e5426faa15fb850229f4,43.668642,-79.483765,Toy Store
+758,Weston,M9N,43.706876,-79.5181884,Syndrome Gaming,1ea4bdb7f739447767da854a,43.702482,-79.503975,Toy Store
+759,Weston,M9N,43.706876,-79.5181884,Toys & Gifts,50921846923642c1394120ba,43.720955,-79.512493,Toy Store
