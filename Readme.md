@@ -68,5 +68,18 @@ Based on these reviews, we suggest the following strategies for the new toy stor
 5.    Offering other services to increase competitiveness, such as gift wrapping, gift purchase consulting, etc. 
 
 ## Contributions
+Yunqian Cao: 
+	·Business Problem Design: Conducted market research using resources like IBISWorld to identify opportunities and  decided to develop the Toy Store business
+	·Responsible for the extraction and the process of data ‘Toronto Demographic Information'. 
+	·Presentation Development: Designed and structured the presentation slides to ensure clarity, coherence, and visual appeal
+	
+	
+
+Stanley Gong:
+	··Data Extraction: Collected and processed Toronto neighborhood data using Foursquare API and census data.
+	·Competitor Analysis: Used the Foursquare API to map competitors in selected neighbourhoods, identifying gaps and opportunities for the proposed business.
+	·Data analysis and visualization.  
+	·Market Research on competitors' customer review
+	
 
 
